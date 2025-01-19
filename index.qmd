@@ -1,0 +1,498 @@
+---
+title: "Professor Spjut's Rock Web"
+---
+
+**E178: High-Power Rocketry**
+ *Spring 2024* - [Harvey Mudd College](http://www.hmc.edu) - [Department of Engineering](https://www.hmc.edu/engineering/)
+ Prof. [R. Erik Spjut](http://erik.spjut.me), 
+<span style="font-variant:small-caps;">|[home](index.html)|[syllabus](syllabus.html)|[assignments](assignments.html)|[labs](labs.html)|[final project](final_project.html)|[flight data](flight_data.html)|[getting certified](getting_certified.html)|</span>
+
+<!-- !!! Note
+    The website is currently undergoing major renovations. Many things are current, but some
+    things are not. Keep checking back for when the final is released. -->
+
+# Calendar
+
+Here is the current version of the course calendar. Due to weather and other
+circumstances, launches and events may not be held as originally scheduled. 
+The calendar will be updated regularly to account for any changes. Please check back often. 
+[TSD](http://www.tripolisandiego.org),
+[ROC](https://rocstock.org),
+[TV](https://www.tripolivegas.com/), &
+[TCC](http://tccrockets.com/v2/)
+launch dates are listed on the calendar. [FAR](https://friendsofamateurrocketry.org)
+launch dates are not listed but are the 1st and 3rd Saturday of each month and can be found
+[here](https://calendar.google.com/calendar/u/0/embed?src=friendsofamateurrocketry@gmail.com&ctz=America/Los_Angeles).
+
+Tuesday, 16 January 2024: Intro & Flight Modeling
+  - Introduction
+  - [Rocket Equation Derivation](https://youtu.be/IQfqB30QgfY)
+  - [Rocket Equation Solutions](RocketEquationSolutions.md.html)
+
+Thursday, 18 January 2024: Assign. 1 Due
+  - [Flight Modeling 1](Assignments/assign1.md.html)
+
+Tuesday, 23 January 2024: Lab 1 Due
+  - [Preliminary Level 1 Construction](labs/lab1.md.html)
+
+Thursday, 25 January 2024: Assign. 2 Due
+  - [Open Rocket for Level 1](Assignments/assign2.md.html)
+
+Friday, 26 January 2024: Level 2 PT1 Due
+  - [Level 2 Practice Test 1](Assignments/assign7.md.html)
+
+Saturday, 27 January 2024: Academic-Industry Liquid Rocket Symposium
+  - Co-sponsored by [FAR](https://friendsofamateurrocketry.org)
+  - Information at [this link.](https://friendsofamateurrocketry.org/symposium/)
+  
+Tuesday, 30 January 2024: Lab 2 Due
+  - [Final Assembly Level 1](labs/lab2.md.html)
+
+Thursday, 01 February 2024: Assign. 3 Due
+  - [Flight Modeling 2](Assignments/assign3.md.html)
+
+Thursday, 01 February 2024: Barometric Altitude
+  - [Barometric Altitude](BarometricAltitude.md.html)
+
+Saturday, 03 February 2024: TSD Launch
+  - Possible [Tripoli San Diego Launch](http://www.tripolisandiego.org)
+  - Possible opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update and restrictions.
+
+Tuesday, 06 February 2024: Lab 3 Due
+  - [Fin Fillet Inspection](labs/lab3.md.html)
+
+Tuesday, 06 February 2024: Prep for ROC
+  - Prep motors and avionics for ROC launch on Saturday
+
+Thursday, 08 February 2024: MTS Lab
+  - Meet in the MTS lab to strength test your fin filets from [Lab 3](labs/lab3.md.html)
+
+Thursday, 08 February 2024: Assign. 4 Due
+  - [Barometric Altitude](Assignments/assign4.md.html)
+
+Friday, 09 February 2024: Level 2 PT2 Due
+  - [Level 2 Practice Test 2](Assignments/assign7.md.html)
+
+Saturday, 10 February 2024: ROC Launch
+  - Possible [ROC Launch](https://rocstock.org)
+  - Possible opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update and restrictions.
+
+Tuesday, 13 February 2024: Work Day
+  - Choose to use your time wisely. Possibilities include:
+    - Get an early start on Lab 4.
+    - Make plans for your Final Project.
+    - Test your avionics.
+  - I will be in the lab for questions.
+
+Thursday, 15 February 2024: Assign. 5 Due (Optional)
+  - [Analyze Weasel Data](Assignments/assign5.md.html)
+
+Saturday, 17 February 2024: TV Launch
+  - [Tripoli Vegas Launch](https://www.tripolivegas.com/)
+  - Opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update
+
+Saturday, 17 February 2024: TCC Launch
+  - Possible [Tripoli Central California Launch](http://tccrockets.com/v2/)
+  - Possible opportunity for Level 1 and/or Level 2 flights
+  - Be absolutely certain to check website for updates and restrictions.
+
+Tuesday, 20 February 2024: Lab 4 Due
+  - [Preliminary Assembly Level 2](labs/lab4.md.html)
+
+Thursday, 22 February 2024: Assign. 6 Due
+  - [Open Rocket for Level 2](Assignments/assign6.md.html)
+
+Friday, 23 February 2024: Level 2 PT 3 Due
+  - [Level 2 Practice Test 3](Assignments/assign7.md.html)
+
+Tuesday, 27 February 2024: Lab 5 Due
+  - [Final Assembly Level 2](labs/lab5.md.html)
+
+Thursday, 29 February 2024: Prelim Proposal Due
+  - [Preliminary Proposal, Schedule and BOM](finalproject.md.html#check-offsandmilestones/preliminarydesigndocumentsandbom)
+
+Saturday, 02 March 2024: TSD Launch
+  - Possible [Tripoli San Diego Launch](http://www.tripolisandiego.org)
+  - Possible opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update and restrictions.
+
+Tuesday, 05 March 2024: Avionics Test Due
+  - [Test your Vulcanite Avionics](VulcaniteAvionicsTest.md.html)
+
+Thursday, 07 March 2024: Assign. 7 Due
+  - [Pass the Level 2 Exam Questions](Assignments/assign7.md.html)
+
+Saturday, 09 March 2024: ROC Launch
+  - Possible [ROC Launch](https://rocstock.org)
+  - Possible opportunity for Level 1 and/or Level 2 flights
+
+Tuesday, 12 March 2024: Spring Break
+
+Thursday, 14 March 2024: Spring Break
+
+Friday, 15 March 2024: TV Launch (SpringFest)
+  - [Tripoli Vegas Launch](https://www.tripolivegas.com/), 1st day of SpringFest
+  - Opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update
+
+Saturday, 16 March 2024: TCC Launch
+  - Possible [Tripoli Central California Launch](http://tccrockets.com/v2/)
+  - Possible opportunity for Level 1 and/or Level 2 flights
+  - Be absolutely certain to check website for updates and restrictions.
+
+Saturday, 16 March 2024: TV Launch (SpringFest)
+  - [Tripoli Vegas Launch](https://www.tripolivegas.com/), 2nd day of SpringFest
+  - Opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update
+
+Sunday, 17 March 2024: TV Launch (SpringFest)
+  - [Tripoli Vegas Launch](https://www.tripolivegas.com/), 3rd day of SpringFest
+  - Opportunity for Level 1 and/or Level 2 flights
+  - Check website for latest update
+
+Tuesday, 19 March 2024: Final Proposal Due
+  - [Complete Proposal, Schedule and BOM](finalproject.md.html#check-offsandmilestones/completedesigndocumentsandbom)
+  
+Thursday, 21 March 2024: Milestone 1 Due
+  - Milestone 1 Due
+
+Tuesday, 26 March 2024: Milestone 2 Due
+  - Milestone 2 Due
+
+Thursday, 28 March 2024: Milestone 3 Due
+  - Milestone 3 Due
+
+Friday, 29 March 2024: Cesar Chavez Day
+
+Tuesday, 02 April 2024: Avionics Test Due
+  - [Final Project Avionics Test Due]()
+
+Thursday, 04 April 2024: Ejection Charge Test Due
+  - [Determine your ejection charge](TBD)
+  - Your rocket needs to be inspected for flight worthiness for the Class Launch on
+    Saturday.
+
+Saturday, 06 April 2024: Class Launch
+  - First E178 Class Launch
+
+Tuesday, 09 April 2024: Post launch cleanup
+  - Clean your rocket and prep for second launch
+
+THursday, 11 April 2024: Assign. 8 Due
+  - [Analysis of First Set of Data Collection Flights](Assignments/assign8.md.html)
+  - Your rocket needs to be inspected for flight worthiness for the Class Launch on
+    Saturday.
+
+Friday, 12 April 2024: Rocstock
+  - Day 1 of [Rocstock](https://rocstock.org/rocstock/), the Semiannual ROC major launch
+  
+Saturday, 13 April 2024: Class Launch, Rocstock
+  - Second E178 Class Launch at Rocstock
+  - Day 2 of [Rocstock](https://rocstock.org/rocstock/), the Semiannual ROC major launch
+
+Sunday, 14 April 2024: Rocstock
+  - Day 3 of [Rocstock](https://rocstock.org/rocstock/), the Semiannual ROC major launch
+
+Tuesday, 16 April 2024: Post launch cleanup
+  - Clean your rocket and prep for storage
+
+Thursday, 18 April 2024: Assign. 9 Due
+  - [Analysis of Second Set of Data Collection Flights](Assignments/assign9.md.html)
+  
+Tuesday, 23 April 2024: Work Day
+  - Work on your final report
+
+Thursday, 25 April 2024: Final Report Due: Final Report Due
+  - [Final Report](finalproject.md.html#finalreport)
+
+# Accessability and Accomodations
+
+HMC is committed to providing an inclusive learning environment and support for all students.
+Students with a disability (including mental health, chronic or temporary medical conditions)
+who may need accommodations in order to fully participate in this class are encouraged to
+contact the Office of Accessible Education at access@g.hmc.edu to request accommodations.
+Students from the other Claremont Colleges should contact their home college's Accessible
+Education officer.
+
+# Software & Downloads
+
+!!! Tip
+    Right click on the link to download if a left click doesn't do what you want.
+
+!!! WARNING
+    The list of files has not yet been checked for accuracy recently.
+
+## Open Rocket Files
+
+ - [First Flight LOC Weasel](SimModels/LOC-Weasel-E178.ork)
+ - [LOC Dual Deploy Vulcanite](SimModels/DDVulcanite.ork)
+ - [Class Madcow Adventurer](SimModels/ClassAdventurer.ork)
+ - [Old First Flight MiniDX3](SimModels/StandardMiniDX3WAvionics.ork)
+ - [LOC Standard Vulcanite](SimModels/StandardVulcaniteWAvionics.ork)
+ - [Class Modified GoDevil](SimModels/ClassGoDevil38WAvionics.ork)
+ - [Estes TopShot](SimModels/Estes_Top_Shot_Avionics.ork)
+ - [MiniDX3 for E69N Motors](SimModels/MiniDX3MinDiamWAvionics.ork)
+ - [Estes Emerald Streak](SimModels/Estes_Emerald_Streak.ork)
+ 
+## Excel Files
+
+   - [20210317_CompositeData](ExcelModels/20210317_CompositeData.xlsx)
+   - [20230220_FinTestData](ExcelModels/20230220_FinTestData.xlsx)
+   - [AerotechMotors](ExcelModels/AerotechMotors.xlsx)
+   - [Assignment1ResultsTable](ExcelModels/Assignment1ResultsTable.xlsx)
+   - [CesaroniMotors](ExcelModels/CesaroniMotors.xlsx)
+   - [E190PrototypeSimResults](ExcelModels/E190PrototypeSimResults.xlsx)
+   - [FinData](ExcelModels/FinData.xlsx)
+   - [FinTestData_18_FEB_2020](ExcelModels/FinTestData_18_FEB_2020.xlsx)
+   - [OneDConst2LThrustCDNoData](ExcelModels/OneDConst2LThrustCDNoData.xlsx)
+   - [OneDConst2LThrustCDwithData](ExcelModels/OneDConst2LThrustCDwithData.xlsx)
+   - [TransonicIIApr2016ThreeModelsJ449](ExcelModels/TransonicIIApr2016ThreeModelsJ449.xlsx)
+   
+## Mathematica Files
+
+ - [ImportFIPaCSV](MathematicaModels/ImportFIPaCSV.nb)
+ - [ImportPF2File](MathematicaModels/ImportPF2File.nb)
+ - [QuatRotVecAndBack](MathematicaModels/QuatRotVecAndBack.nb)
+ - [TwoStepModel](MathematicaModels/TwoStepModel.nb)
+
+## LabVIEW Files
+
+   - [AIMCSVCDThrustCalcs](LabVIEWModels/AIMCSVCDThrustCalcs.vi)
+   - [AnalyticalConstThrustConstCD](LabVIEWModels/AnalyticalConstThrustConstCD.vi)
+   - [bILAToByte](LabVIEWModels/bILAToByte.vi)
+   - [FixRavenCSV](LabVIEWModels/FixRavenCSV.vi)
+   - [LowPowerThrustCurves](LabVIEWModels/LowPowerThrustCurves.csv)
+   - [LowPowerThrustCurves](LabVIEWModels/LowPowerThrustCurves.xlsx)
+   - [MolMassCalcForAir](LabVIEWModels/MolMassCalcForAir.vi)
+   - [MultiStepThrustModel](LabVIEWModels/MultiStepThrustModel.vi)
+   - [OneLevelLMFunction](LabVIEWModels/OneLevelLMFunction.vi)
+   - [OneLevelLMFunctVel](LabVIEWModels/OneLevelLMFunctVel.vi)
+   - [P-to-h](LabVIEWModels/P-to-h.vi)
+   - [ParseTeensy](LabVIEWModels/ParseTeensy.vi)
+   - [PnutCSVAltVelCalcs](LabVIEWModels/PnutCSVAltVelCalcs.vi)
+   - [QuatLibForRockets](LabVIEWModels/QuatLibForRockets.llb)
+   - [RavenCSVAccelCalcs](LabVIEWModels/RavenCSVAccelCalcs.vi)
+   - [RavenCSVAltVelCalcs](LabVIEWModels/RavenCSVAltVelCalcs.vi)
+   - [RavenCSVCDThrustCalcs](LabVIEWModels/RavenCSVCDThrustCalcs.vi)
+   - [ReadAIM](LabVIEWModels/ReadAIM.vi)
+   - [ReadDisplayAIM](LabVIEWModels/ReadDisplayAIM.vi)
+   - [ReadDisplayPF2](LabVIEWModels/ReadDisplayPF2.vi)
+   - [ReadDisplayRavenCSV](LabVIEWModels/ReadDisplayRavenCSV.vi)
+   - [ReadPF2File](LabVIEWModels/ReadPF2File.vi)
+   - [ReadRavenCSV](LabVIEWModels/ReadRavenCSV.vi)
+   - [ReadThrustCurveCSV](LabVIEWModels/ReadThrustCurveCSV.vi)
+   - [RungeKuttaLMFunction](LabVIEWModels/RungeKuttaLMFunction.vi)
+   - [RungeKuttaLMFunctVel](LabVIEWModels/RungeKuttaLMFunctVel.vi)
+   - [RungeKuttaModel](LabVIEWModels/RungeKuttaModel.vi)
+   - [ThrustFromThrustCurve](LabVIEWModels/ThrustFromThrustCurve.vi)
+   - [ThrustToMass](LabVIEWModels/ThrustToMass.vi)
+   - [TwoLevelLMFunction](LabVIEWModels/TwoLevelLMFunction.vi)
+
+## MATLAB Files
+
+   - [Assignment1MATLABModel](MATLABModels/Assignment1MATLABModel.zip)
+   - [E190_9SEP2017_J825R_1_BASE](MATLABModels/E190_9SEP2017_J825R_1_BASE.csv)
+   - [E190_9SEP2017_J825R_1_XTRA](MATLABModels/E190_9SEP2017_J825R_1_XTRA.csv)
+   - [G69_30JUN2017_G69-P_3_FIP](MATLABModels/G69_30JUN2017_G69-P_3_FIP.csv)
+   - [G69_30JUN2017_G69-P_3](MATLABModels/G69_30JUN2017_G69-P_3.pf2)
+   - [makelists](MATLABModels/makelists.m)
+   - [myDateNum](MATLABModels/myDateNum.m)
+   - [myStrLat](MATLABModels/myStrLat.m)
+   - [myStrLon](MATLABModels/myStrLon.m)
+   - [ParseTeensyLogger](MATLABModels/ParseTeensyLogger.m)
+   - [ParseTeensyLoggerEggfinder](MATLABModels/ParseTeensyLoggerEggfinder.m)
+   - [ParseTeensyLoggerNoGPS](MATLABModels/ParseTeensyLoggerNoGPS.m)
+   - [poscoast](MATLABModels/poscoast.m)
+   - [posff](MATLABModels/posff.m)
+   - [position](MATLABModels/position.m)
+   - [posvel](MATLABModels/posvel.m)
+   - [posvelacc](MATLABModels/posvelacc.m)
+   - [ProcessAIMDataForCDThrustSpinJ825R](MATLABModels/ProcessAIMDataForCDThrustSpinJ825R.m)
+   - [ProcessAltitudeDataJ825R](MATLABModels/ProcessAltitudeDataJ825R.m)
+   - [ProcessGPGGA](MATLABModels/ProcessGPGGA.m)
+   - [ProcessIMUData](MATLABModels/ProcessIMUData.m)
+   - [ProcessIMUDataJ825R](MATLABModels/ProcessIMUDataJ825R.m)
+   - [ProcessNMEAData](MATLABModels/ProcessNMEAData.m)
+   - [qdotCalc](MATLABModels/qdotCalc.m)
+   - [ReadFIPcsv](MATLABModels/ReadFIPcsv.m)
+   - [ReadPlotAIMData](MATLABModels/ReadPlotAIMData.m)
+   - [ReadPlotFIPcsv](MATLABModels/ReadPlotFIPcsv.m)
+   - [RocketEquationPackage](MATLABModels/RocketEquationPackage.zip)
+   - [RotKalmanJ825R](MATLABModels/RotKalmanJ825R.m)
+   - [rotToQuat](MATLABModels/rotToQuat.m)
+   - [rotVecToGlob](MATLABModels/rotVecToGlob.m)
+   - [rotVecToLoc](MATLABModels/rotVecToLoc.m)
+   - [ScanFaultyTeensyDataLogger](MATLABModels/ScanFaultyTeensyDataLogger.m)
+   - [ScanTeensyDataLogger](MATLABModels/ScanTeensyDataLogger.m)
+   - [ScanTeensyDataLoggerGPSRotTempAdventurer](MATLABModels/ScanTeensyDataLoggerGPSRotTempAdventurer.m)
+   - [smooth](MATLABModels/smooth.m)
+   - [test](MATLABModels/test.m)
+   - [test](MATLABModels/test.mat)
+   - [TfromV](MATLABModels/TfromV.m)
+   - [TopShot_14DEC2017_E12-6_1](MATLABModels/TopShot_14DEC2017_E12-6_1.pf2)
+   - [TRIAD](MATLABModels/TRIAD.m)
+   - [TwoStepThrustAnalytical](MATLABModels/TwoStepThrustAnalytical.m)
+   - [velcoast](MATLABModels/velcoast.m)
+   - [velff](MATLABModels/velff.m)
+   - [velocity](MATLABModels/velocity.m)
+   - [VmaxApogee](MATLABModels/VmaxApogee.m)
+   
+## PDF Files
+
+   - [AircraftQuaternions](PDF/AircraftQuaternions.pdf)
+   - [Assignment1Solution](PDF/Assignment1Solution.pdf)
+   - [BlackHawk38_Ins](PDF/BlackHawk38_Ins.pdf)
+   - [CambridgeRocketSimPaper](PDF/CambridgeRocketSimPaper.pdf)
+   - [CDfromPostBoost](PDF/CDfromPostBoost.pdf)
+   - [ConstThrustTwoStepModel](PDF/ConstThrustTwoStepModel.pdf)
+   - [dx316](PDF/dx316.pdf)
+   - [E190AJRocketSchematic](PDF/E190AJRocketSchematic.pdf)
+   - [FinalReportRubric2024](PDF/FinalReportRubric2024.pdf)
+   - [IntroToInertialNavigation](PDF/IntroToInertialNavigation.pdf)
+   - [KalmanFilterExample](PDF/KalmanFilterExample.pdf)
+   - [LSM330DLCDataSheet](PDF/LSM330DLCDataSheet.pdf)
+   - [MAG3110DataSheet](PDF/MAG3110DataSheet.pdf)
+   - [MMA65XXDataSheet](PDF/MMA65XXDataSheet.pdf)
+   - [ModelingControlFlightDynamics](PDF/ModelingControlFlightDynamics.pdf)
+   - [MS5607-02BA03DataSheet](PDF/MS5607-02BA03DataSheet.pdf)
+   - [OpenRocketHints](PDF/OpenRocketHints.pdf)
+   - [Raven_quick_start](PDF/Raven_quick_start.pdf)
+   - [raven_users_manual_2014may20](PDF/raven_users_manual_2014may20.pdf)
+   - [RocketEquationDerivation](PDF/RocketEquationDerivation.pdf)
+   - [StandardAtmosphere](PDF/StandardAtmosphere.pdf)
+   - [StudentDX3Measurements](PDF/StudentDX3Measurements.pdf)
+   - [ThermistorBoardLayout](PDF/ThermistorBoardLayout.pdf)
+   - [ThermistorConditionerSchematic](PDF/ThermistorConditionerSchematic.pdf)
+   - [ThrustCurveFromFlightData](PDF/ThrustCurveFromFlightData.pdf)
+   - [ToChargeLiPoBatteries](PDF/ToChargeLiPoBatteries.pdf)
+   - [UsingInertialSensorsPositionOrientationEstimation](PDF/UsingInertialSensorsPositionOrientationEstimation.pdf)   
+
+## SolidWorks Files
+
+   - [3inFiberglassCoupler](SolidWorks/3inFiberglassCoupler.SLDPRT)
+   - [6inFiberglassCoupler](SolidWorks/6inFiberglassCoupler.SLDPRT)
+   - [08InThinWallFiberglass](SolidWorks/08InThinWallFiberglass.SLDPRT)
+   - [9InThinWallFiberglass](SolidWorks/9InThinWallFiberglass.SLDPRT)
+   - [9p8InThinWallFiberglass](SolidWorks/9p8InThinWallFiberglass.SLDPRT)
+   - [10p3InThinWallFiberglass](SolidWorks/10p3InThinWallFiberglass.SLDPRT)
+   - [12InThinWallFiberglass](SolidWorks/12InThinWallFiberglass.SLDPRT)
+   - [30InThinWallFiberglass](SolidWorks/30InThinWallFiberglass.SLDPRT)
+   - [3014T450_STL EYEBOLT W SHLDR - FOR LIFTING](SolidWorks/3014T450_STL EYEBOLT W SHLDR - FOR LIFTING.SLDPRT)
+   - [AIMXTRA](SolidWorks/AIMXTRA.SLDPRT)
+   - [AlTubing14in](SolidWorks/AlTubing14in.SLDPRT)
+   - [AntennaSupport](SolidWorks/AntennaSupport.SLDPRT)
+   - [Batt1S1000mAh](SolidWorks/Batt1S1000mAh.SLDPRT)
+   - [Batt2S300mAh](SolidWorks/Batt2S300mAh.SLDPRT)
+   - [BatterySupport](SolidWorks/BatterySupport.SLDPRT)
+   - [ComponentBoardLockPlateClearance](SolidWorks/ComponentBoardLockPlateClearance.SLDPRT)
+   - [ComponentBoardLockPlateThreaded](SolidWorks/ComponentBoardLockPlateThreaded.SLDPRT)
+   - [EBayBulkhead](SolidWorks/EBayBulkhead.SLDPRT)
+   - [EBayBulkheadWSlots](SolidWorks/EBayBulkheadWSlots.SLDPRT)
+   - [EbayComponentBoard](SolidWorks/EbayComponentBoard.SLDPRT)
+   - [EbayMidsection](SolidWorks/EbayMidsection.SLDPRT)
+   - [EbayMidsectionBottomSwitch](SolidWorks/EbayMidsectionBottomSwitch.SLDPRT)
+   - [EbayMountedComponents](SolidWorks/EbayMountedComponents.SLDASM)
+   - [ElectronicsBay](SolidWorks/ElectronicsBay.SLDASM)
+   - [FiberglassRod1_8in](SolidWorks/FiberglassRod1_8in.SLDPRT)
+   - [Fin](SolidWorks/Fin.SLDPRT)
+   - [GoDevil3inFiberglassCoupler](SolidWorks/GoDevil3inFiberglassCoupler.SLDPRT)
+   - [GoDevil6inFiberglassCoupler](SolidWorks/GoDevil6inFiberglassCoupler.SLDPRT)
+   - [GoDevil08InThinWallFiberglass](SolidWorks/GoDevil08InThinWallFiberglass.SLDPRT)
+   - [GoDevil9InThinWallFiberglass](SolidWorks/GoDevil9InThinWallFiberglass.SLDPRT)
+   - [GoDevil9p8InThinWallFiberglass](SolidWorks/GoDevil9p8InThinWallFiberglass.SLDPRT)
+   - [GoDevil10p3InThinWallFiberglass](SolidWorks/GoDevil10p3InThinWallFiberglass.SLDPRT)
+   - [GoDevil12InThinWallFiberglass](SolidWorks/GoDevil12InThinWallFiberglass.SLDPRT)
+   - [GoDevil30InThinWallFiberglass](SolidWorks/GoDevil30InThinWallFiberglass.SLDPRT)
+   - [GoDevilBatterySupport](SolidWorks/GoDevilBatterySupport.SLDPRT)
+   - [GoDevilComponentBoardLockPlateClearance](SolidWorks/GoDevilComponentBoardLockPlateClearance.SLDPRT)
+   - [GoDevilComponentBoardLockPlateThreaded](SolidWorks/GoDevilComponentBoardLockPlateThreaded.SLDPRT)
+   - [GoDevilEBayBulkhead](SolidWorks/GoDevilEBayBulkhead.SLDPRT)
+   - [GoDevilEBayBulkheadWSlots](SolidWorks/GoDevilEBayBulkheadWSlots.SLDPRT)
+   - [GoDevilEbayComponentBoard](SolidWorks/GoDevilEbayComponentBoard.SLDPRT)
+   - [GoDevilEbayMidsection](SolidWorks/GoDevilEbayMidsection.SLDPRT)
+   - [GoDevilEbayMidsectionBottomSwitch](SolidWorks/GoDevilEbayMidsectionBottomSwitch.SLDPRT)
+   - [GoDevilEbayMountedComponents](SolidWorks/GoDevilEbayMountedComponents.SLDASM)
+   - [GoDevilElectronicsBay](SolidWorks/GoDevilElectronicsBay.SLDASM)
+   - [GoDevilEYEBOLT_W_SHLDR](SolidWorks/GoDevilEYEBOLT_W_SHLDR.SLDPRT)
+   - [GoDevilFiberglassRod1_8in](SolidWorks/GoDevilFiberglassRod1_8in.SLDPRT)
+   - [GoDevilFin](SolidWorks/GoDevilFin.SLDPRT)
+   - [GoDevilMotorMount](SolidWorks/GoDevilMotorMount.SLDASM)
+   - [GoDevilNoseCone](SolidWorks/GoDevilNoseCone.SLDASM)
+   - [GoDevilNoseConeBulkhead](SolidWorks/GoDevilNoseConeBulkhead.SLDPRT)
+   - [GoDevilStandard](SolidWorks/GoDevilStandard.SLDASM)
+   - [InteriorMotorRetainer](SolidWorks/InteriorMotorRetainer.SLDPRT)
+   - [InteriorMotorRetainer38mm](SolidWorks/InteriorMotorRetainer38mm.SLDPRT)
+   - [MotorMount](SolidWorks/MotorMount.SLDASM)
+   - [NoseCone](SolidWorks/NoseCone.SLDASM)
+   - [NoseConeBulkhead](SolidWorks/NoseConeBulkhead.SLDPRT)
+   - [Raven](SolidWorks/Raven.SLDPRT)
+   - [Raven3](SolidWorks/Raven3.SLDPRT)
+   - [ScrewSwitchFeatherweight](SolidWorks/ScrewSwitchFeatherweight.SLDPRT)
+   - [ScrewSwitchFW](SolidWorks/ScrewSwitchFW.SLDPRT)
+   - [ThermBoard](SolidWorks/ThermBoard.SLDPRT)
+   - [ThermBoardForAim](SolidWorks/ThermBoardForAim.SLDPRT)
+   - [ThermBoardForAIMScrewTerm](SolidWorks/ThermBoardForAIMScrewTerm.SLDPRT)
+   - [ThermBoardScrewTerm](SolidWorks/ThermBoardScrewTerm.SLDPRT)
+   - [Thumbs](SolidWorks/Thumbs.db)
+   - [VonKarmanNoseCone](SolidWorks/VonKarmanNoseCone.SLDPRT)
+   - [Vulcanite_Archive](SolidWorks/Vulcanite_Archive.zip)
+   - [CuttingTheVulcaniteAvionicsBayParts](SolidWorks/CuttingTheVulcaniteAvionicsBayParts.md.html)
+   - [VulcaniteEBoardFeatherweightTeensy](SolidWorks/VulcaniteEBoardFeatherweightTeensy.SLDPRT)
+   - [VulcaniteFinJig](SolidWorks/VulcaniteFinJig.SLDPRT)
+   - [VulcaniteStandardEBoardFeatherweightTeensy](SolidWorks/VulcaniteStandardEBoardFeatherweightTeensy.SLDPRT)
+
+(##) SolidWorks Files for First Flight 1.6" Mini DX3
+ 
+   - [AvionicsBayDX3Files](SolidWorks/FFDX3/AvionicsBayDX3Files.zip)
+   - [Design Table](SolidWorks/FFDX3/Design Table.xlsx)
+   - [ElectronicsBayBottomCircle](SolidWorks/FFDX3/ElectronicsBayBottomCircle.SLDPRT)
+   - [ElectronicsBayLowerSideSupport](SolidWorks/FFDX3/ElectronicsBayLowerSideSupport.SLDPRT)
+   - [ElectronicsBayMiddleCircleFullEF](SolidWorks/FFDX3/ElectronicsBayMiddleCircleFullEF.SLDPRT)
+   - [ElectronicsBayTLIIFGPSMainSupport](SolidWorks/FFDX3/ElectronicsBayTLIIFGPSMainSupport.SLDPRT)
+   - [ElectronicsBayTopCircleFGPS](SolidWorks/FFDX3/ElectronicsBayTopCircleFGPS.SLDPRT)
+   - [ElectronicsBayUpperSideSupport](SolidWorks/FFDX3/ElectronicsBayUpperSideSupport.SLDPRT)
+   - [MiniDX3FinJig](SolidWorks/FFDX3/MiniDX3FinJig.SLDPRT)
+
+The archives with the DD Vulcanite and Weasel are linked on their respective construction pages.   
+       
+# Links and Supporting Info
+
+This section will expand as additional info is available.
+
+## Learning Modules and/or videos in the areas of aerospace engineering
+
+ - [Rocket Science 101: Physics of Rockets](https://youtu.be/giwHUDt8pXo)
+ - [Rocket Science 101: Engineering of Rocket](https://youtu.be/V57iC4ObaWw)
+ - [Rocket Equation Derivation](https://youtu.be/IQfqB30QgfY)
+ 
+## Assembly Instructions
+
+  - [First Flight LOC Weasel](CardboardWeaselRocketAssembly.md.html)
+  - [Dual Deploy LOC Vulcanite](VulcaniteDDRocketAssembly.md.html)
+  - [Current 54 mm Class Rocket](ClassRocketAssembly.md.html)
+  - [1.6" miniDX3 ](CardboardDX3RocketAssembly.md.html)
+  - [Standard Vulcanite ](VulcaniteRocketAssembly.md.html)
+  - [Old 38 mm Class Rocket](38mmClassRocketAssembly.md.html)
+
+## Checklists
+
+  - [First Flight Weasel Checklist](https://docs.google.com/document/d/1oqgcplhbXpRIWpRw8PKD4f0bSeA7CasiKCODNrehoSs/template/preview)
+  - [Dual Deploy Vulcanite Checklist](https://docs.google.com/document/d/1lJyEVSrCFZwJk7_JHNWDRw0QxfExZNMokktgrj4HpG4/template/preview)
+  - [Class Rocket Checklist](https://docs.google.com/document/d/1dVBvO7aVfs_-7mEDtWGHkoOWV-Q9yQn5qkdvQN47Fl4/template/preview)
+  - [38mm Class Rocket Checklist](https://docs.google.com/document/d/1UJ9nU5z90nWUtJ71SsrKbnivc2zDnhVESiWzR4qcCA4/template/preview)
+  
+## Additional Links
+
+ - [Barometric Altitude](BarometricAltitude.md.html)
+ - [Solutions of the Rocket Equation](RocketEquationSolutions.md.html)
+ - [Instructions for Folding Parachutes](ParachuteFolding.md.html)
+ - [Link Budgets on Wikipedia](https://en.wikipedia.org/wiki/Link_budget)
+ - [Guidelines for Gyro and Accel noise specs](CharacterizeGyroAccel.md.html)
+ - [Orientation and Position Reference Information](OrientPos.md.html)
+ - [IntroToInertialNavigation](PDF/IntroToInertialNavigation.pdf)
+ - [Thermistor Reference Data](ThermistorCalculations.md.html)
+ - [Earth's Magnetic Field Calculator](https://www.ngdc.noaa.gov/geomag-web/#igrfwmm)
+ - [Local Gravity Calculator](https://www.sensorsone.com/local-gravity-calculator/)

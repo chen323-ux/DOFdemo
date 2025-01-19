@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Open Rocket",
+    "section": "",
+    "text": "E178: Assignment 2\n|home|syllabus|assignments|labs|final project|flight data|getting certified|\n\nOpen Rocket\nOpen Rocket is a Java app, but a group of dedicated volunteers have created installers for it. Go to Open Rocket to get a version that is appropriate for your computer and OS. There are some outdated hints for usage at Some Hints for Open Rocket.\nCreate an Open Rocket model of your LOC Weasel from the data you measured for Lab 1. Weigh your avionics assembly or the example model avionics assembly (use 84 g if you don’t have access to the avionics, or you don’t have access to a scale), and include it as a mass in your model. Record and report the model mass and center of mass as calculated by Open Rocket.\nRecord and report the actual model mass and center of mass for the example rocket. Comment on the differences from the modeled mass and CM.\n\n\nF67-9W Flight\nSimulate a flight of your LOC Weasel with an Aerotech F67-9W two different ways: 1. Use Open Rocket and your measured mass and CM. 2. Use the model from Assignment 1 and approximate the F67-9W thrust curve as you think appropriate.\n\n\nH128W-14A Flight\nSimulate a flight of your LOC Weasel with an Aerotech H128-14A two different ways: 1. Use Open Rocket and your measured mass and CM. 2. Use your 1D model from Assignment 1 and approximate the H128-14A thrust curve as you think appropriate. For ground conditions, use the likely or reported weather conditions at 9 am in Lucerne Valley on Saturday, 10 February 2024 Compare your results from the two models. Determine if the ejection happens before or after apogee. If it’s after apogee, determine the optimal delay adjustment so that the parachute ejects right at apogee. It is not cheating to use the column labeled “Optimum delay” in the Open Rocket results. Rerun your Open Rocket model with the optimal delay. Compare these results with the GPS altitude data from the Weasel H128W-14A flight on 07/08/2023 in 2023-07-08-LogExcel.xlsx.\n\n\nDeliverables\nYour deliverables are: 1. A written report describing your process and results that must include: 1. A comparison of the rocket mass and center of mass as determined by the Open Rocket model constructed from your parts measurements from Lab 1, with the measured values from the example rocket. 2. A graph plotting the results of your two models for acceleration for the F67-9W motor from liftoff past ejection. 3. A graph plotting the results of your two models for velocity for the F67-9W motor from liftoff past ejection. 4. A graph plotting the results of your two models for altitude for the F67-9W motor from liftoff past ejection. 5. A graph plotting the results of your two models for altitude for the H128W motor from liftoff past ejection for the optimal delay time with the GPS Altitude data from the 07/08/2023 flight 6. An explanation, possibly including a marked graph, explaining how you calculated the optimal delay adjustment. 2. The model file from Open Rocket that includes your runs.\nStandard report components, such as introduction, conclusions, and recommendations would be nice, but aren’t required."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Working Spaces",
+    "section": "",
+    "text": "E178: High-Power Rocketry – Syllabus Spring 2024 - Harvey Mudd College - Department of Engineering Prof. R. Erik Spjut, spjut@g.hmc.edu\n|home|syllabus|assignments|labs|final project|flight data|getting certified|"
+  },
+  {
+    "objectID": "syllabus.html#flight-hardware",
+    "href": "syllabus.html#flight-hardware",
+    "title": "Working Spaces",
+    "section": "Flight Hardware",
+    "text": "Flight Hardware\nYou will be given kits for a LOC Precision Weasel and a LOC Precision Vulcanite. Your team will have access to parts for a modified 2.2” Madcow Adventurer, a modified 1.6” Madcow Go Devil, or a design of your choice for your Final Project. The Flight Hardware for the semester is discussed in depth on the Flight Hardware page."
+  },
+  {
+    "objectID": "syllabus.html#actually-getting-to-fly",
+    "href": "syllabus.html#actually-getting-to-fly",
+    "title": "Working Spaces",
+    "section": "Actually Getting to Fly",
+    "text": "Actually Getting to Fly\nWe have two scheduled launches in E178, one on Saturday, 6 April 2024 by ourselves, and the other at ROC launch on Saturday, 13 April 2024. We have the proper permits for our own launch. We will work out transportation for the class to the launches.\nIf you want to certify or collect data from your Level 1 and/or Level 2 rockets, you can attend the ROC, TV, and TSD launches on dates before our scheduled launches. I will have the HMC Canopies and tables and other supplies at the 10 February 2024 and the 9 March 2024 ROC launches. You will be responsible for getting yourselves to the launch. If desired, we can coordinate travel to the TSD and/or TV launches.\nIt is possible to go by yourself to fly your rockets. For G or smaller motors, in California the requirements are that you use commercial motors certified by the State of California and you have permission of the local landowner and of the local fire department. For high power rockets (H motors and larger) you must also have an FAA waiver as well as permission from the local authorities. In practical terms, that means that you need to fly at a sanctioned launch run by your local Tripoli or NAR prefecture, club or organization. A list of local Tripoli prefectures is here. A map version is here. A locator for local NAR clubs is here. A map version is here. For Southern California, the closest clubs are: - The Rocketry Organization of California (ROC), - Tripoli San Diego (TSD), - Tripoli Vegas (TV), - and Tripoli Central California (TCC). Check the respective websites for the latest information."
+  },
+  {
+    "objectID": "syllabus.html#high-power-rocketry",
+    "href": "syllabus.html#high-power-rocketry",
+    "title": "Working Spaces",
+    "section": "High Power Rocketry",
+    "text": "High Power Rocketry\nWhy is this class called High Power Rocketry? The FAA recognizes two classes of amateur rockets: ### Class 1 or Model Rockets Class 1 - Model Rocket means an amateur rocket that:\n\nUses no more than 125 grams (4.4 ounces) of propellant;\nUses a slow-burning propellant;\nIs made of paper, wood, or breakable plastic;\nContains no substantial metal parts; and\nWeighs no more than 1,500 grams (53 ounces), including the propellant.\n\n\nClass 2 or High Power Rockets\nClass 2 – High-Power Rocket means an amateur rocket other than a model rocket that is propelled by a motor or motors having a combined total impulse of 40,960 Newton-seconds (9,208 pound-seconds) or less. The National Fire Protection Association also has two codes covering amateur rockets that correspond closely with the FAA Class 1 and Class 2. NFPA 1122 – Model Rocketry NFPA 1127 – High Power Rocketry\nThee two organizations in the US that sanction High Power Rockets are the National Association of Rocketry (NAR) and the Tripoli Rocketry Association (TRA). In order to fly a high power rocket at a NAR or Tripoli sanctioned event, you must be certified. The range of rockets you can fly with different certification levels are as follows: - No Certification – Rocket up to total mass of 1.500 kg. Total propellant up to 0.125 kg. Average thrust up to 80 N. Total impulse up to 160 Ns (e.g., a G motor). - Level 1 Certification – Total Impulse up to 640 Ns (H or I motors). - Level 2 Certification – Total Impulse up to 5,120 Ns (J, K or L motors). - Level 3 Certification – Total Impulse up to 40,960 Ns (M, N, or O motors). California limits total impulse to 10,240 Ns (M motors).\nThis class is geared towards learning to model, build, instrument, fly, and analyze High Power Rockets."
+  },
+  {
+    "objectID": "syllabus.html#modeling",
+    "href": "syllabus.html#modeling",
+    "title": "Working Spaces",
+    "section": "Modeling",
+    "text": "Modeling\nA model is a set of equations or computer code that describes the flight of the rocket. The forces and torques in a rocket model come from gravity, thrust, lift, and drag. Models are classified as 1-D, 2-D, or 3-D models. A 1-D model assumes that the rocket flies straight up and falls under parachute straight down. A 2-D (or 3 DoF) model assumes that the rocket can travel vertically and horizontally, and rotate in the 2-D plane of motion. A 3-D (or 6 DoF) model assumes that the rocket can travel in 3-D space and rotate about any of its three principal axes. The required modeling in E178 is:\n\nDevelop or prove an analytic 1-D model with constant thrust during motor burning, and a constant coefficient of drag during the flight.\nLearn to use a 2-D (3 DoF) open source program called Open Rocket to model and predict rocket behavior. Use this code for all three rockets you will construct.\nDevelop and/or use a 1-D code to permit calculation of \\(C_D\\) and thrust curves from flight data."
+  },
+  {
+    "objectID": "syllabus.html#building",
+    "href": "syllabus.html#building",
+    "title": "Working Spaces",
+    "section": "Building",
+    "text": "Building\nDuring the course of the semester you will build two rockets by yourself, and work as part of a team to build a third.\nThe first rocket is a LOC Weasel, a cardboard, plywood, and plastic rocket that will be assembled using 5-minute epoxy and screws. You use 5-minute epoxy to acquaint you with proper and safe use of epoxy in rocket building, but with a quick cure time. It is suitable for a Level 1 flight.\nThe second rocket is a LOC Vulcanite, again a cardboard, plywood, and plastic rocket, but modified to use dual deployment for recovery. It is constructed with Aeropoxy, a slow-curing epoxy that is much stronger than 5-minute epoxy. It is overkill for the Vulcanite, but it is much trickier to work with than the 5-minute epoxy, and will give you practice for the Final Project rocket.\nThe third rocket is for your Final Project. It is a chance to demonstrate everything you’ve learned during the semester as well as explore some aspect of rocketry that interests you in depth."
+  },
+  {
+    "objectID": "syllabus.html#teams",
+    "href": "syllabus.html#teams",
+    "title": "Working Spaces",
+    "section": "Teams",
+    "text": "Teams\nMuch of the work in class will be done in teams of two (or three). We will determine the teams very early in the semester. You may certainly collaborate with each other on the assignments and labs, either as teams or as a whole class. Each lab and assignment will have a list of deliverables. Even though most of the work in class can be done in teams, each student must submit individual assignment solutions for Assignments 1 through 7, and individual lab deliverables for Labs 1, 2, 4, & 5. You must work on the Final Project as a team. For Final Projects the Final Report will be submitted by the team, and not individually. The Tech Memo Guidelines explains more about the expected format. They may be submitted as .docx, .pdf, google doc, or hard copy."
+  },
+  {
+    "objectID": "syllabus.html#assignments-labs-exam-and-final-project",
+    "href": "syllabus.html#assignments-labs-exam-and-final-project",
+    "title": "Working Spaces",
+    "section": "Assignments, Labs, Exam, and Final Project",
+    "text": "Assignments, Labs, Exam, and Final Project\nSee the Labs page for more details on the individual labs.\nSee the Assignments page for more details on the individual assignments.\nThe course is designed to take about 12 hours per week total for in-class, lab, and reports. If you find any single task is taking too long, contact Prof. Spjut to get help or the solution to that part. Teams (or the whole class) may work together and/or delegate to develop the information for the reports, e.g., derivations, software models, plots, but each student must write up the connecting material and explanation individually for Assignments 1 through 7, and Labs 1, 2, 4, & 5.\n\nLevel 2 Exam\nTo both test your knowledge of the subject matter, and to prep you for certifying Level 2, we will have a multiple-choice exam covering all of the questions in both the Tripoli and NAR study guides. It is due as Assignment 7. Practice exams and the for-a-grade exam are available on Gradescope.\n\n\nFinal project\nMore details of the Final Project are found on the Final Project page. What’s given below is a general outline.\nFor your final project, you must include at a minimum:\n\nCharacterization of motor performance on each flight (the thrust curve, total and specific impulse)\nCharacterization of flight and flow dynamics on each flight (\\(C_D\\) and vertical \\(a\\), \\(v\\), and \\(z\\)).\n\nIn addition, you may choose to demonstrate an in-depth understanding of either one of the above areas or one of the following areas:\n\nCharacterization of avionics and telemetry\nCharacterization of structural dynamics\nFluid mechanics and CFD\nRisk and reliability\n\n\nProject Proposal\nBy 29 February 2024, you need to submit a preliminary project plan. It must contain: - Your preliminary objectives, i.e., answers to the questions: - What objectives do you have for your project? - What information or data do you need to have, e.g., acceleration, barometric altitude, rotation rate, magnetic field, GPS coordinates, internal or external temperature, light intensity, still or video images, or other sensor data; materials properties, planetary masses, specific impulses, etc.? - How do you plan on acquiring the information or collecting the data? - Do you plan on any special or custom data processing or modeling? - Do you have any major modifications to be made to your rocket? - What questions do you expect your project to answer? - The modeling, programming, or construction tools you expect to use. - A preliminary project schedule.\nBy 19 March 2024, you need to submit a final project proposal. It must contain: - Your final objectives with supporting details. - The modeling, programming, or construction tools you are going to use. - A final project schedule with milestones and deliverables. See the course calendar for the milestone dates.\n\n\nFinal Report\nThe final draft of the Final Report is due 25 April 2024 by 11:50 p.m. The Tech Memo Guidelines explains more about the expected format. It may be submitted as .docx, .pdf, google doc, or hard copy."
+  },
+  {
+    "objectID": "getting_certified.html",
+    "href": "getting_certified.html",
+    "title": "Why Certify?",
+    "section": "",
+    "text": "Rocketry Certification |home|syllabus|assignments|labs|final project|flight data|getting certified|\nE178, High-Power Rocketry previously has a pre- or co-requirement of either NAR or TRA Level 1 certification and a strong recommendation of Level 2 certification. In stead of that requirement, you will construct a Level-1 capable rocket and a Level-2 capable rocket, and be graded on the quality of the construction and flight worthiness, as well as pass an exam with all of the Level 2 exam questions for both organizations on it. That way I am certain about your rocket-building ability, but we don’t have to worry about the weather or launch cancellations If you have access to a TRA or NAR launch site you are encouraged to do both Level 1 and Level 2 certification. The purpose of this page is to briefly explain the process for certification, and to provide links to additional resources."
+  },
+  {
+    "objectID": "getting_certified.html#level-1-strategy",
+    "href": "getting_certified.html#level-1-strategy",
+    "title": "Why Certify?",
+    "section": "Level 1 Strategy",
+    "text": "Level 1 Strategy\nMost people trying to certify Level 1 build the simplest, least expensive (SLE) rocket they can that will fly on a small H motor. The thinking is that once you are certified, you can experiment with more complicated configurations, but the first order of business is to get certified. However, if you are a person who pays attention to detail and are willing to ground test before flight, you can certify on a more complex, and more expensive rocket. My Level 1 rocket was fairly simple but not particularly inexpensive. My Level 2 was much more complicated than most people fly to certify, but it functioned perfectly.\nIf you choose your rocket carefully, you can certify both Level 1 and Level 2 on the same rocket (and on the same day, but most senior people recommend against same-day multi-certs)."
+  },
+  {
+    "objectID": "getting_certified.html#level-1-motor-recommendations",
+    "href": "getting_certified.html#level-1-motor-recommendations",
+    "title": "Why Certify?",
+    "section": "Level 1 motor recommendations",
+    "text": "Level 1 motor recommendations\nYou can certify on either an H or an I motor, but you cannot take possession of the motor until just before your flight. You can have someone already Level 1 or above (like Prof. Spjut) buy it for you and give it to you when you’re ready to prep for launch. Or you can buy it at the launch site when you’re ready to prep for launch.\n\nAerotech or CTI?\nYou have three choices for a motor for a qualifying flight: An Aerotech single-use motor, an Aerotech reload, or a CTI reload. Both the Aerotech and CTI reloads require you to have a motor case. Aerotech single-use motors are slightly more expensive than either brand of reload, but the CTI cases for the reloads are expensive, and the Aerotech cases for the reloads are even more expensive. Prof. Spjut has cases you can borrow for the most common Aerotech sizes, and a case or two for CTI motors, so a reload with a borrowed case is the cheapest way to go. For a SLE rocket, the top two choices are the Aerotech H128W-14A reload and the CTI H163-14A reload, but for SLE you can use any H reload that fits in the Aerotech 29/180 case or any H reload that fits in the CTI 29mm 3-grain case. Many vendors have a qualification discount for your first HP motor for a qualifying flight."
+  },
+  {
+    "objectID": "getting_certified.html#level-1-rocket-recommendations",
+    "href": "getting_certified.html#level-1-rocket-recommendations",
+    "title": "Why Certify?",
+    "section": "Level 1 rocket recommendations",
+    "text": "Level 1 rocket recommendations\nThere are lots of rockets that will work for Level 1 and Level 2 qualification flights. By no means consider the list below to be exhaustive.\n\nLOC Weasel\nYou will have to build one of these as part of the first two labs. It will easily let you certify Level 1 (assuming you include the GPS Tracker) if you follow the construction techniques. In addition to the kit, you will need an Estes 29mm motor retainer and 5-minute epoxy. The perfect cert motor for this rocket is the Aerotech H128W. The class assembly instructions are here.\n\n\nMadcow 1.6” Mini DX3\nBefore the recent price hikes, this was the rockets built in the first two labs. It will easily let you certify Level 1 (assuming you include the GPS Tracker) if you follow the construction techniques. In addition to the kit, you will need an Estes 29mm motor retainer and 5-minute epoxy. The perfect cert motor for this rocket is the Aerotech H128W. The former class assembly instructions are found here.\n\n\nEstes Pro Series II\nThe least expensive way to certify Level 1 is to buy an Estes Pro Series II with a 29 mm motor mount (not 24 mm) for between $20 and $40 and make the modifications to fly it on an H motor. The Super Big Bertha is an upscale of a classic Estes rocket and may be worth considering. If you can’t get Pro Series II rocket for around $20-to-$40, you’re better off spending your money on the Madcow or one of the other rockets below.\nTo modify a Pro Series II for an H motor: * Leave out the engine block on the motor mount if the kit has one. * Put epoxy fillets on the fin joints. * Replace the shock cord with 10 to 15 feet of kevlar and attach it to the motor mount or through the wall, not just glued on. * Consider replacing the existing 1/4” launch lugs with heftier 1/4” launch lugs or rail guides.\nThese rockets do not feature very rugged construction and will survive a few flights, but don’t plan on doing much more than qualifying on it. Available from Estes, eRockets, Sirius.\n\n\nAerotech Arreaux\nThe Aerotech Arreaux is an excellent SLE rocket. However, to fly H motors, you’ll need to replace the stock 12” motor mount tube with a 15” or ~18” motor mount tube. See the construction hints below. Beyond the kit and the extra tube, all you need are CA adhesive and JB weld. We used modified Arreauxs in E80 for years. It’s much sturdier than the Estes Pro Series II, but not as sturdy as the Phobos, the Vulcanite, the Wildman Minis, or the Madcow thin-wall fiberglass. The rocket is available from Wildman, eRockets, Sirius, Apogee Components. The replacement motor mount tube is available from Aerotech, or eRockets.\n\n\nPML Phobos\nThe PML Phobos is an extremely rugged and reliable kit. If you pay attention to the instructions and are careful during construction it will last for years. You will want the parachute upgrade and the HAMR motor retainer. If you get the 38mm motor mount instead of the 29mm, you can certify Level 2 on it as well, but you’d want to make certain of your construction techniques and replace the standard circular launch lugs with rail guides. Available from LOC Precision, eRockets.\n\n\nLOC Precision Vulcanite\nYou will build a Vulcanite as part of Labs 4 and 5. The Vulcanite is a fairly rugged rocket that can be used for both Level 1 and Level 2 flights. It’s not quite as rugged as the PML Phobos. You’ll want to order an Aero Pack Quick Change motor retainer. See building recommendations below if you want to try to cert Level 2 on it as well, or just want a very well constructed rocket. If you go for your Level 2 with it, you’ll want to use the Aerotech J270W-14A motor with 0.6g of BP. Available from LOC Precision, Wildman, eRockets, Sirius.\n\n\nWildman Mini\nAny of the Wildman Mini series rockets will work very well as a Level 1 qualifying rocket. They are extremely sturdy and will last for years. Be sure to get the quick-change retainer. The Nomex chute protector is also useful, but may only last a few flights. Consider the dual deploy upgrade if you don’t want an SLE rocket. Available from Wildman.\n\n\nMadcow\nMadcow has a number of rockets that will work for Level 1 and Level 2 flights. The previous E190 Class Rocket was a modified version of the Madcow Go Devil 38. However, the instructions are much less detailed and are designed for more experienced builders. Consult Prof. Spjut if you would like assistance with choosing a Madcow kit.\n\n\nApogee Components\nOne option to consider is the Apogee Peregrine. It is designed for dual deploy and will also work as a Level 2 rocket should you decide to use it. It has an amazing set of videos on construction if you need a little guidance. They also sell the Zephyr."
+  },
+  {
+    "objectID": "getting_certified.html#aerotech-arreaux-1",
+    "href": "getting_certified.html#aerotech-arreaux-1",
+    "title": "Why Certify?",
+    "section": "Aerotech Arreaux",
+    "text": "Aerotech Arreaux\n\nIt’s worth buying an extra-length motor-mount tubes to cert level 1. A length of at least 15” will work for Aerotech 29/180 or shorter motors. You’ll need to fiberglass your rocket to fly motors with more than 180 Ns of impulse. You will need a length of at least 16¼” for the H115DM-14A, the H182R-14A, the H135W-14A, and the H195NT-14A, and a length of at least 19¾” for the I205W-14A. For the extra-length motor mount tube, you can either order the replacement motor mount tube from Aerotech, or eRockets.\nYou won’t need the 24 mm motor adaptor and don’t need to construct it. Most of the parts are no longer in the kit.\nYou need to attach the included motor retainer instead of the Motor Hook, Thrust Ring, and Thrust Ring Flange. These changes are detailed in the Arreaux Motor Retainer Upgrade Notice. Attaching the motor retainer should be done AFTER the rest of the rocket construction is completed (after Step 1 of the FINAL ASSEMBLY AND FINISHING in the instructions), otherewise it will block the application of the cyannoacrylate to the fin roots and the aft Centering Ring. Use JB Weld to attach it. The details are in the Aerotech 29 mm Motor Retainer Instructions (all on the Aerotech website http://www.aerotech-rocketry.com/resources.aspx?id=4 near the bottom of the page).\nUse tapped holes and threaded #6 nylon screws to secure the nosecone to the payload section. Two is the minimum, three is recommended, four is allowed. Friction fitting with tape isn’t sufficient.\nIt’s often useful to be able to replace either the body or the payload/nosecone. The recessed screw eye on the payload section makes it difficult. You may want to make an extension out of 1/8” rope and a quik-link and attache the shock cord to the quik-link.\nMake sure you can dry-fit the fins BEFORE you CA them in place. You may need to sand down the ridges a little to be able to snap the fins into place.\nOther suggestions are on the old E80 website."
+  },
+  {
+    "objectID": "getting_certified.html#loc-precision-vulcanite-1",
+    "href": "getting_certified.html#loc-precision-vulcanite-1",
+    "title": "Why Certify?",
+    "section": "LOC Precision Vulcanite",
+    "text": "LOC Precision Vulcanite\nThe build instructions for Labs 4 and 5 already incorporate most of the hints below. 1. Be sure to roughen all surfaces to be epoxied, with 60, 80, or 100 grit sandpaper before you glue so that the epoxy adheres better. 2. Get an Aero Pack RA 38mm L motor retainer. 3. Sand the bottom 3/8” of the motor mount tube until the motor retainer slides on easily. 4. Replace the elastic shock cord in the kit with 12 ft to 15 ft of either tubular/strap nylon or tubular/strap Kevlar, such as PML STRP-0.375, eRockets ER9044, Wildman KEVLAR1/4”, or Madcow SC_FLT_38_RED. 5. Use either the PML mounting style or the Modified PML mounting style for the shock cord. For the PML style, follow steps 1 & 2 in the Phobos Instructions. You’ll have to machine or file a notch in one of the centering rings to accomodate the shock cord. The centering ring on the other end (held in place with tape), must be at least 3/8” from the end of the motor mount tube and preferably 1/2” to accomodate the motor retainer. When assembled, the motor mount will protrude from the end of the rocket a bit. The modified PML style is similar, but instead of epoxying the shock cord axially to the motor mount, it is tied radially around the motor mount tube and included in the epoxy fillet between the motor mount tube and the centering ring. Step 2 of the Madcow Batray instructions show the tying technique, but has the notch on the outside of the centering ring instead of on the inside where it belongs. 6. If you want streamlined fins, round the leading edge, and taper the trailing edge. Leave the inside and outside edges square. 7. Consider laser-cutting a pair of fin guides to ensure the fins are perpendicular to the body tube. 8. Use the PML technique to attach the fins as shown in Step 4 of the Phobos Instructions. When you finally epoxy in the bottom centering ring, push it flush up against the fins. 9. When prepping the Payload Bay, consider finding a screw eye that attaches with a nut and washer rather than just a wood-screw end. 10. When you epoxy in the coupler tube bulkhead, recess it at least 1/8” so that you can put a decent fillet between the bulkhead and the coupler tube on the outside. DO NOT make the bulkhead flush with the end of the coupler tube. The LOC instructions say to, but they are seriously wrong and you may lose your payload section when the recovery charge goes off. 11. Secure the nose cone to the payload section with three countersunk #4 flat head screws. You can use the pan head screws but they don’t sit as flush. 12. If you are planning on Level 2 (J) flights, either replace or supplement the launch lugs with rail guides, either PML LRL-10-2 or Acme 54mm. 13. Secure the motor retainer with JB Weld."
+  },
+  {
+    "objectID": "final_project.html",
+    "href": "final_project.html",
+    "title": "Purpose",
+    "section": "",
+    "text": "E178: Spring 2024 Final Project\n|home|syllabus|assignments|labs|final project|flight data|getting certified|"
+  },
+  {
+    "objectID": "final_project.html#calendar",
+    "href": "final_project.html#calendar",
+    "title": "Purpose",
+    "section": "Calendar",
+    "text": "Calendar\n      Date     | Milestone/Check-Off\n—————-:|———————- Thu, 29 FEB 2024 | Preliminary Design Documents and BOM Tue, 19 MAR 2024 | Complete Design Documents and BOM Thu, 21 MAR 2024 | Milestone 1 Tue, 26 MAR 2024 | Milestone 2 Thu, 28 MAR 2024 | Milestone 3 Tue, 2 APR 2024 | Avionics Tests Thu, 4 APR 2024 | Ground Tests of Ejection Systems, Completed Airframe Construction and Inspection Fri, 5 APR 2024 | Motor Prep, Flight Checklist due, Preflight Inspection Sat, 6 APR 2024 | Class Launch, First Set of Flights Thu, 11 APR 2024 | Analysis of First Set of Flight Data Fri, 12 APR 2024 | Motor Prep, Preflight Inspection Sat, 13 APR 2024 | Class Launch with ROC, Second Set of Flights Thu, 18 APR 2024 | Analysis of Second Set of Flight Data Thu, 25 APR 2024 | Final Reports Due"
+  },
+  {
+    "objectID": "final_project.html#preliminary-design-documents-and-bom",
+    "href": "final_project.html#preliminary-design-documents-and-bom",
+    "title": "Purpose",
+    "section": "Preliminary Design Documents and BOM",
+    "text": "Preliminary Design Documents and BOM\nI need to see evidence that you will be ready for launch on 6 April 2024. Put together a preliminary flight proposal that describes whether you will use the standard class rocket or a different rocket, what the goals of your project are and how you expect to achieve them, and what you expect the challenges to be. You must include sketches or CAD (Solidworks and/or Rocksim/Open Rocket) drawings/models which show your rocket and any modifications you intend to make. You also need a preliminary bill of materials including what additional items need to be ordered and whether you are going to order them or I am. We will try to get everything ordered as quickly as we can after your plan and budget are approved. If you have any long-lead-time items, let me know about them as early as you can, and we’ll order them even before your design documents are approved."
+  },
+  {
+    "objectID": "final_project.html#complete-design-documents-and-bom",
+    "href": "final_project.html#complete-design-documents-and-bom",
+    "title": "Purpose",
+    "section": "Complete Design Documents and BOM",
+    "text": "Complete Design Documents and BOM\nYou are free to get your design documents approved before the due date. In fact, I would recommend it so you can get an early start on your construction. In addition to the information you put together for your preliminary flight propoasal, you need complete CAD (Solidworks and/or Rocksim/Open Rocket) drawings/models which show every detail of the modifications you intend to make to your rocket. You need a list of milestones with dates so I can check on the progress of your project (see below). Finally, you need a complete bill of materials including what additional items need to be ordered and whether you are going to order them or I am. We will try to get everything ordered as quickly as we can after your detailed plan and budget are approved. If you have any long lead time items, let me know about them as early as you can, and we’ll order them even before your final design documents are approved."
+  },
+  {
+    "objectID": "final_project.html#milestones-1-through-3",
+    "href": "final_project.html#milestones-1-through-3",
+    "title": "Purpose",
+    "section": "Milestones 1 through 3",
+    "text": "Milestones 1 through 3\nYou are responsible for determining a set of milestones that need to be completed to ensure that your project will be flight ready by 8 April 2024 and completed by 25 April 2024. You must list the milestones in your Final Plan (Complete Design Documents and BOM). These should include, at a minimum, demonstrating functionality of all of your avionics, such as firing the firewire initiators, and recording data."
+  },
+  {
+    "objectID": "final_project.html#completed-airframe-construction-and-inspection",
+    "href": "final_project.html#completed-airframe-construction-and-inspection",
+    "title": "Purpose",
+    "section": "Completed Airframe Construction and Inspection",
+    "text": "Completed Airframe Construction and Inspection\nThis deadline is rather tight if you haven’t gotten approval for your plans earlier than the plan-approval deadline. You need to have all of the mechanical modifications to your rocket completed by this deadline. I need to inspect the rocket for flight-worthiness. This check-off is important. If you miss the timeline, you may not have time to get your rocket prepared in time for the first launch."
+  },
+  {
+    "objectID": "final_project.html#ground-tests-of-ejection-systems-complete-flight-checklists",
+    "href": "final_project.html#ground-tests-of-ejection-systems-complete-flight-checklists",
+    "title": "Purpose",
+    "section": "Ground Tests of Ejection Systems, Complete Flight Checklists",
+    "text": "Ground Tests of Ejection Systems, Complete Flight Checklists\nYou need to test to determine the correct black powder amounts for the drogue chute to eject at apogee, and the main to eject at 200 meters. The testing will be conducted on Linde Field, and we need to notify Campus Safety when you are going to test. The details of ground testing your ejection systems are found in the Class Rocket Assembly Instructions, which have not yet been updated for the class modified Adventurers.\nYou also need to have your checklists approved. Your first checklist should be for prepping your rocket for flight. A starting point is the Class Rocket Checklist You also need a checklist for everything you need to bring to the launch. You can have other checklists if you want. Many of the times that something goes wrong on a flight, it is due to someone not following the checklist."
+  },
+  {
+    "objectID": "final_project.html#first-launch-motors-prepped-preflight-inspection",
+    "href": "final_project.html#first-launch-motors-prepped-preflight-inspection",
+    "title": "Purpose",
+    "section": "First Launch Motors Prepped, Preflight Inspection",
+    "text": "First Launch Motors Prepped, Preflight Inspection\nIt is possible to prep your motors in the field on launch day. However, it’s usually better to prep them in the lab before you leave, where you are under less stress and there is substantially less dust blowing around. Just remember to leave them a little less than fully tightened, so that the o-rings don’t take a set (ask NASA about that). However, you do need to fully tighten them before you put them in the rocket on launch day.\nI need to inspect your rocket and make sure it’s ready to launch before we load up to go to the launch site. It’s best to have it inspected early enough that you have time to fix any problems I find.\nHopefully, the remaining milestones and deadlines are self-explanatory."
+  },
+  {
+    "objectID": "final_project.html#sample-in-depth-design-areas",
+    "href": "final_project.html#sample-in-depth-design-areas",
+    "title": "Purpose",
+    "section": "Sample in-depth design areas:",
+    "text": "Sample in-depth design areas:\n\nLower body tube with custom sets of fins\nCustom instrumentation and sensors such as telemetry system, vibration measurement system, etc.\nCustom signal-processing software\nSystem for active stabilization (not guidance)"
+  },
+  {
+    "objectID": "final_project.html#boosted-dart",
+    "href": "final_project.html#boosted-dart",
+    "title": "Purpose",
+    "section": "Boosted Dart",
+    "text": "Boosted Dart\nAttempt to launch a boosted dart with a 3-motor cluster booster.\nResults: Failed to launch due to structural integrity issues (side casings snapped off during launch prep). One of team was proctor following year and launched during class launch. Never recovered boosted dart or avionics."
+  },
+  {
+    "objectID": "final_project.html#two-stage-minimum-diameter-rocket.",
+    "href": "final_project.html#two-stage-minimum-diameter-rocket.",
+    "title": "Purpose",
+    "section": "Two-Stage Minimum Diameter Rocket.",
+    "text": "Two-Stage Minimum Diameter Rocket.\nResults: 2nd stage failed to ignite due to design and avionics flaws. Top stage flew by itself flawlessly."
+  },
+  {
+    "objectID": "final_project.html#spring-loaded-parachute-ejection",
+    "href": "final_project.html#spring-loaded-parachute-ejection",
+    "title": "Purpose",
+    "section": "Spring-Loaded Parachute Ejection",
+    "text": "Spring-Loaded Parachute Ejection\nDesigned a spring loaded mechanical release for parachute ejection, both drogue and main.\nResults: 1st Launch functioned properly. There was irreparable structural failure of the rocket body where the side-ejection door had been cut on the 2nd flight."
+  },
+  {
+    "objectID": "final_project.html#measurement-of-temperature-profile-along-rocket-body",
+    "href": "final_project.html#measurement-of-temperature-profile-along-rocket-body",
+    "title": "Purpose",
+    "section": "Measurement of Temperature Profile Along Rocket Body",
+    "text": "Measurement of Temperature Profile Along Rocket Body\nAttempted to pur an array of temperature sensors along the outside of the rocket body to measure the air-temperature profile during transonic flight.\nResults: Never managed to get their custom Teensy-based data acquisition system to function properly and record data. Never flew."
+  },
+  {
+    "objectID": "final_project.html#sensor-fusion",
+    "href": "final_project.html#sensor-fusion",
+    "title": "Purpose",
+    "section": "Sensor Fusion",
+    "text": "Sensor Fusion\nAttempted to combine multi-camera video data for horizon with IMU data to provide better 3-D sensor fusion.\nResults: Partially successful, but incorrectly set sample rates for IMU and did not have high-enough quality data for successful sensor fusion."
+  },
+  {
+    "objectID": "final_project.html#vibration-senors-along-body",
+    "href": "final_project.html#vibration-senors-along-body",
+    "title": "Purpose",
+    "section": "Vibration Senors Along Body",
+    "text": "Vibration Senors Along Body\nPlaced an array of vibrations sensors on the surface of the rocket to measure modal vibrations.\nResuts: Struggled with both the avionics and the flight preparation and never flew."
+  },
+  {
+    "objectID": "final_project.html#gyro-stabilized",
+    "href": "final_project.html#gyro-stabilized",
+    "title": "Purpose",
+    "section": "Gyro Stabilized",
+    "text": "Gyro Stabilized\nE80 Project: Included a high-speed gyroscope in the rocket to maintain the orientation during flight\nResults: Got the gyro to spin up, but it didn’t seem to have much effect."
+  },
+  {
+    "objectID": "final_project.html#fin-drag-for-different-fin-shapes-and-placement",
+    "href": "final_project.html#fin-drag-for-different-fin-shapes-and-placement",
+    "title": "Purpose",
+    "section": "Fin Drag for Different Fin Shapes and Placement",
+    "text": "Fin Drag for Different Fin Shapes and Placement\nE80 Project: Made the fin can easily detachable and changeable to attach different fins.\nResults: Very successful. Managed to get a lot of fin drag vs. velocity data for different fins."
+  },
+  {
+    "objectID": "final_project.html#variations-in-uv-intensity-with-altitude",
+    "href": "final_project.html#variations-in-uv-intensity-with-altitude",
+    "title": "Purpose",
+    "section": "Variations in UV Intensity with Altitude",
+    "text": "Variations in UV Intensity with Altitude\nE80 Project: Placed a set of UV sensitive photodiodes on the rocket to measure UV intensity vs. altitude and compare with models.\nResults: Were unsuccessful in measuring changes with UV intensity with altitude because of rocket rotation, but found a really accurate way to measure axial rocket rotation."
+  },
+  {
+    "objectID": "final_project.html#mapping-of-wind-velocity-vs.-altitude",
+    "href": "final_project.html#mapping-of-wind-velocity-vs.-altitude",
+    "title": "Purpose",
+    "section": "Mapping of Wind Velocity vs. Altitude",
+    "text": "Mapping of Wind Velocity vs. Altitude\nE80 Project: Designed a rocket to drop a series of small weighted objects with parachutes at different altitudes and map out the wind velocity versus altitude by where the objects landed.\nResults: Never got the ejection mechanism to work reliably. Got very few data points and were unable to map things well."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "flight_data.html",
+    "href": "flight_data.html",
+    "title": "Purpose",
+    "section": "",
+    "text": "E178: Spring 2024 Final Project\n|home|syllabus|assignments|labs|final project|flight data|getting certified|"
+  },
+  {
+    "objectID": "flight_data.html#calendar",
+    "href": "flight_data.html#calendar",
+    "title": "Purpose",
+    "section": "Calendar",
+    "text": "Calendar\n      Date     | Milestone/Check-Off\n—————-:|———————- Thu, 29 FEB 2024 | Preliminary Design Documents and BOM Tue, 19 MAR 2024 | Complete Design Documents and BOM Thu, 21 MAR 2024 | Milestone 1 Tue, 26 MAR 2024 | Milestone 2 Thu, 28 MAR 2024 | Milestone 3 Tue, 2 APR 2024 | Avionics Tests Thu, 4 APR 2024 | Ground Tests of Ejection Systems, Completed Airframe Construction and Inspection Fri, 5 APR 2024 | Motor Prep, Flight Checklist due, Preflight Inspection Sat, 6 APR 2024 | Class Launch, First Set of Flights Thu, 11 APR 2024 | Analysis of First Set of Flight Data Fri, 12 APR 2024 | Motor Prep, Preflight Inspection Sat, 13 APR 2024 | Class Launch with ROC, Second Set of Flights Thu, 18 APR 2024 | Analysis of Second Set of Flight Data Thu, 25 APR 2024 | Final Reports Due"
+  },
+  {
+    "objectID": "flight_data.html#preliminary-design-documents-and-bom",
+    "href": "flight_data.html#preliminary-design-documents-and-bom",
+    "title": "Purpose",
+    "section": "Preliminary Design Documents and BOM",
+    "text": "Preliminary Design Documents and BOM\nI need to see evidence that you will be ready for launch on 6 April 2024. Put together a preliminary flight proposal that describes whether you will use the standard class rocket or a different rocket, what the goals of your project are and how you expect to achieve them, and what you expect the challenges to be. You must include sketches or CAD (Solidworks and/or Rocksim/Open Rocket) drawings/models which show your rocket and any modifications you intend to make. You also need a preliminary bill of materials including what additional items need to be ordered and whether you are going to order them or I am. We will try to get everything ordered as quickly as we can after your plan and budget are approved. If you have any long-lead-time items, let me know about them as early as you can, and we’ll order them even before your design documents are approved."
+  },
+  {
+    "objectID": "flight_data.html#complete-design-documents-and-bom",
+    "href": "flight_data.html#complete-design-documents-and-bom",
+    "title": "Purpose",
+    "section": "Complete Design Documents and BOM",
+    "text": "Complete Design Documents and BOM\nYou are free to get your design documents approved before the due date. In fact, I would recommend it so you can get an early start on your construction. In addition to the information you put together for your preliminary flight propoasal, you need complete CAD (Solidworks and/or Rocksim/Open Rocket) drawings/models which show every detail of the modifications you intend to make to your rocket. You need a list of milestones with dates so I can check on the progress of your project (see below). Finally, you need a complete bill of materials including what additional items need to be ordered and whether you are going to order them or I am. We will try to get everything ordered as quickly as we can after your detailed plan and budget are approved. If you have any long lead time items, let me know about them as early as you can, and we’ll order them even before your final design documents are approved."
+  },
+  {
+    "objectID": "flight_data.html#milestones-1-through-3",
+    "href": "flight_data.html#milestones-1-through-3",
+    "title": "Purpose",
+    "section": "Milestones 1 through 3",
+    "text": "Milestones 1 through 3\nYou are responsible for determining a set of milestones that need to be completed to ensure that your project will be flight ready by 8 April 2024 and completed by 25 April 2024. You must list the milestones in your Final Plan (Complete Design Documents and BOM). These should include, at a minimum, demonstrating functionality of all of your avionics, such as firing the firewire initiators, and recording data."
+  },
+  {
+    "objectID": "flight_data.html#completed-airframe-construction-and-inspection",
+    "href": "flight_data.html#completed-airframe-construction-and-inspection",
+    "title": "Purpose",
+    "section": "Completed Airframe Construction and Inspection",
+    "text": "Completed Airframe Construction and Inspection\nThis deadline is rather tight if you haven’t gotten approval for your plans earlier than the plan-approval deadline. You need to have all of the mechanical modifications to your rocket completed by this deadline. I need to inspect the rocket for flight-worthiness. This check-off is important. If you miss the timeline, you may not have time to get your rocket prepared in time for the first launch."
+  },
+  {
+    "objectID": "flight_data.html#ground-tests-of-ejection-systems-complete-flight-checklists",
+    "href": "flight_data.html#ground-tests-of-ejection-systems-complete-flight-checklists",
+    "title": "Purpose",
+    "section": "Ground Tests of Ejection Systems, Complete Flight Checklists",
+    "text": "Ground Tests of Ejection Systems, Complete Flight Checklists\nYou need to test to determine the correct black powder amounts for the drogue chute to eject at apogee, and the main to eject at 200 meters. The testing will be conducted on Linde Field, and we need to notify Campus Safety when you are going to test. The details of ground testing your ejection systems are found in the Class Rocket Assembly Instructions, which have not yet been updated for the class modified Adventurers.\nYou also need to have your checklists approved. Your first checklist should be for prepping your rocket for flight. A starting point is the Class Rocket Checklist You also need a checklist for everything you need to bring to the launch. You can have other checklists if you want. Many of the times that something goes wrong on a flight, it is due to someone not following the checklist."
+  },
+  {
+    "objectID": "flight_data.html#first-launch-motors-prepped-preflight-inspection",
+    "href": "flight_data.html#first-launch-motors-prepped-preflight-inspection",
+    "title": "Purpose",
+    "section": "First Launch Motors Prepped, Preflight Inspection",
+    "text": "First Launch Motors Prepped, Preflight Inspection\nIt is possible to prep your motors in the field on launch day. However, it’s usually better to prep them in the lab before you leave, where you are under less stress and there is substantially less dust blowing around. Just remember to leave them a little less than fully tightened, so that the o-rings don’t take a set (ask NASA about that). However, you do need to fully tighten them before you put them in the rocket on launch day.\nI need to inspect your rocket and make sure it’s ready to launch before we load up to go to the launch site. It’s best to have it inspected early enough that you have time to fix any problems I find.\nHopefully, the remaining milestones and deadlines are self-explanatory."
+  },
+  {
+    "objectID": "flight_data.html#sample-in-depth-design-areas",
+    "href": "flight_data.html#sample-in-depth-design-areas",
+    "title": "Purpose",
+    "section": "Sample in-depth design areas:",
+    "text": "Sample in-depth design areas:\n\nLower body tube with custom sets of fins\nCustom instrumentation and sensors such as telemetry system, vibration measurement system, etc.\nCustom signal-processing software\nSystem for active stabilization (not guidance)"
+  },
+  {
+    "objectID": "flight_data.html#boosted-dart",
+    "href": "flight_data.html#boosted-dart",
+    "title": "Purpose",
+    "section": "Boosted Dart",
+    "text": "Boosted Dart\nAttempt to launch a boosted dart with a 3-motor cluster booster.\nResults: Failed to launch due to structural integrity issues (side casings snapped off during launch prep). One of team was proctor following year and launched during class launch. Never recovered boosted dart or avionics."
+  },
+  {
+    "objectID": "flight_data.html#two-stage-minimum-diameter-rocket.",
+    "href": "flight_data.html#two-stage-minimum-diameter-rocket.",
+    "title": "Purpose",
+    "section": "Two-Stage Minimum Diameter Rocket.",
+    "text": "Two-Stage Minimum Diameter Rocket.\nResults: 2nd stage failed to ignite due to design and avionics flaws. Top stage flew by itself flawlessly."
+  },
+  {
+    "objectID": "flight_data.html#spring-loaded-parachute-ejection",
+    "href": "flight_data.html#spring-loaded-parachute-ejection",
+    "title": "Purpose",
+    "section": "Spring-Loaded Parachute Ejection",
+    "text": "Spring-Loaded Parachute Ejection\nDesigned a spring loaded mechanical release for parachute ejection, both drogue and main.\nResults: 1st Launch functioned properly. There was irreparable structural failure of the rocket body where the side-ejection door had been cut on the 2nd flight."
+  },
+  {
+    "objectID": "flight_data.html#measurement-of-temperature-profile-along-rocket-body",
+    "href": "flight_data.html#measurement-of-temperature-profile-along-rocket-body",
+    "title": "Purpose",
+    "section": "Measurement of Temperature Profile Along Rocket Body",
+    "text": "Measurement of Temperature Profile Along Rocket Body\nAttempted to pur an array of temperature sensors along the outside of the rocket body to measure the air-temperature profile during transonic flight.\nResults: Never managed to get their custom Teensy-based data acquisition system to function properly and record data. Never flew."
+  },
+  {
+    "objectID": "flight_data.html#sensor-fusion",
+    "href": "flight_data.html#sensor-fusion",
+    "title": "Purpose",
+    "section": "Sensor Fusion",
+    "text": "Sensor Fusion\nAttempted to combine multi-camera video data for horizon with IMU data to provide better 3-D sensor fusion.\nResults: Partially successful, but incorrectly set sample rates for IMU and did not have high-enough quality data for successful sensor fusion."
+  },
+  {
+    "objectID": "flight_data.html#vibration-senors-along-body",
+    "href": "flight_data.html#vibration-senors-along-body",
+    "title": "Purpose",
+    "section": "Vibration Senors Along Body",
+    "text": "Vibration Senors Along Body\nPlaced an array of vibrations sensors on the surface of the rocket to measure modal vibrations.\nResuts: Struggled with both the avionics and the flight preparation and never flew."
+  },
+  {
+    "objectID": "flight_data.html#gyro-stabilized",
+    "href": "flight_data.html#gyro-stabilized",
+    "title": "Purpose",
+    "section": "Gyro Stabilized",
+    "text": "Gyro Stabilized\nE80 Project: Included a high-speed gyroscope in the rocket to maintain the orientation during flight\nResults: Got the gyro to spin up, but it didn’t seem to have much effect."
+  },
+  {
+    "objectID": "flight_data.html#fin-drag-for-different-fin-shapes-and-placement",
+    "href": "flight_data.html#fin-drag-for-different-fin-shapes-and-placement",
+    "title": "Purpose",
+    "section": "Fin Drag for Different Fin Shapes and Placement",
+    "text": "Fin Drag for Different Fin Shapes and Placement\nE80 Project: Made the fin can easily detachable and changeable to attach different fins.\nResults: Very successful. Managed to get a lot of fin drag vs. velocity data for different fins."
+  },
+  {
+    "objectID": "flight_data.html#variations-in-uv-intensity-with-altitude",
+    "href": "flight_data.html#variations-in-uv-intensity-with-altitude",
+    "title": "Purpose",
+    "section": "Variations in UV Intensity with Altitude",
+    "text": "Variations in UV Intensity with Altitude\nE80 Project: Placed a set of UV sensitive photodiodes on the rocket to measure UV intensity vs. altitude and compare with models.\nResults: Were unsuccessful in measuring changes with UV intensity with altitude because of rocket rotation, but found a really accurate way to measure axial rocket rotation."
+  },
+  {
+    "objectID": "flight_data.html#mapping-of-wind-velocity-vs.-altitude",
+    "href": "flight_data.html#mapping-of-wind-velocity-vs.-altitude",
+    "title": "Purpose",
+    "section": "Mapping of Wind Velocity vs. Altitude",
+    "text": "Mapping of Wind Velocity vs. Altitude\nE80 Project: Designed a rocket to drop a series of small weighted objects with parachutes at different altitudes and map out the wind velocity versus altitude by where the objects landed.\nResults: Never got the ejection mechanism to work reliably. Got very few data points and were unable to map things well."
+  },
+  {
+    "objectID": "labs.html",
+    "href": "labs.html",
+    "title": "Lab 2 – Due 20240130",
+    "section": "",
+    "text": "E178: Spring 2024 Labs\n|home|syllabus|assignments|labs|final project|flight data|getting certified|\nPreliminary Assembly Level 1 – Using proper technique assemble the motor-tube - rings - shock-cord assembly and the payload/nose cone assembly (Forward Section) of your Weasel kit. Prof. Spjut will inspect your assemblies on the due date and immediately return them to you, so you can start on Final Assembly.\n\nLab 2 – Due 20240130\nFinal Assembly Level 1 – Using proper technique complete the assembly of your Weasel rocket. Also laser cut and assemble the electronics bay support and mount and test the avionics. Prof. Spjut will inspect your assemblies on the due date and immediately return them to you, so you can finish ground testing and launch on 10 February 2024 at ROC if you desire.\n\n\nLab 3 – Due 20240206\nFin Fillet Test – Make sample fin joints with fillets using fiberglass and epoxy, one with just epoxy, one with glass-microballoon filler and one with milled glass-fiber filler. Perform destructive tests to determine the strength of your joints.\nThe results are in the Lab 3 Link\n!!! note The destructive tests are scheduled 8 February 2024 in the MTS lab.\n\n\nLab 4 – Due 20240220\nPreliminary Assembly Level 2 – Using proper technique assemble the motor-tube - rings -shock cord assembly, the GPS Bay/Nose Cone assembly, the GPS Support and the Avionics Bay – forward body tube assembly of your Vulcanite kit. You will not populate the avionics on either the GPS support or the Avionics Bay for this lab. Prof. Spjut will inspect your assemblies on the due date and immediately return them to you, so you can start on Final Assembly.\n\n\nLab 5 – Due 20240227\nFinal Assembly Level 2 – Using proper technique complete the assembly of your Vulcanite rocket. Populate and wire up your avionics bay with the Eggfinder Quark and the Teensy Data Logger. Populate and wire up your GPS Support. Prof. Spjut will inspect your assemblies on the due date and immediately return them to you, so you can finish ground testing and launch on 09 March 2024 at ROC if you desire."
+  }
+]

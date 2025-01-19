@@ -1,0 +1,62 @@
+**E178: Assignment 2**
+
+<span style="font-variant:small-caps;">|[home](index.html)|[syllabus](syllabus.html)|[assignments](assignments.html)|[labs](labs.html)|[final project](final_project.html)|[flight data](flight_data.html)|[getting certified](getting_certified.html)|</span>
+    
+# Open Rocket
+  Open Rocket is a Java app, but a group of dedicated volunteers have created installers for
+  it. Go to [Open Rocket](https://openrocket.info/) to get a version that is appropriate for
+  your computer and OS. There are some outdated hints for usage at
+  [Some Hints for Open Rocket](../PDF/OpenRocketHints.pdf).
+  
+  Create an Open Rocket model of your LOC Weasel from the data you measured for [Lab 1](../labs/lab1.md.html).
+  Weigh your avionics assembly or the example model avionics assembly (use
+  84 g if you don't have access to the avionics, or you don't have access to a scale),
+  and include it as a mass in your model. Record and report
+  the model mass and center of mass as calculated by Open Rocket. 
+  
+  Record and report the actual model mass and center of mass for the example rocket.
+  Comment on the differences from the modeled mass and CM.
+  
+# F67-9W Flight 
+  Simulate a flight of your LOC Weasel with an Aerotech F67-9W two different ways:
+    1. Use Open Rocket and your measured mass and CM.
+    2. Use the model from Assignment 1 and approximate the F67-9W thrust curve as you
+       think appropriate.
+
+
+# H128W-14A Flight
+  Simulate a flight of your LOC Weasel with an Aerotech H128-14A two different ways:
+    1. Use Open Rocket and your measured mass and CM.
+    2. Use your 1D model from Assignment 1 and approximate the H128-14A thrust curve as you
+       think appropriate.
+  For ground conditions, use the likely or reported weather conditions at 9 am in [Lucerne
+  Valley](https://www.wunderground.com/forecast/us/ca/lucerne-valley) on Saturday, 10 February 2024
+  Compare your results from the two models. Determine if the ejection happens before or
+  after apogee. If it's after apogee, determine the optimal delay adjustment so that
+  the parachute ejects right at apogee. It is _not_ cheating to use the column labeled
+  "Optimum delay" in the Open Rocket results. Rerun your Open Rocket model with the
+  optimal delay. Compare these results with the GPS altitude data from the Weasel
+  H128W-14A flight on 07/08/2023 in [2023-07-08-LogExcel.xlsx](../FlightData/Weasel/2023-07-08-LogExcel.xlsx).
+
+# Deliverables
+  Your deliverables are:
+  1. A written report describing your process and results that must include:
+     1. A comparison of the rocket mass and center of mass as determined by the Open
+        Rocket model constructed from your parts measurements from Lab 1, with the
+        measured values from the example rocket.
+     2. A graph plotting the results of your two models for _acceleration_
+        for the F67-9W motor from liftoff past ejection.
+     3. A graph plotting the results of your two models for _velocity_
+        for the F67-9W motor from liftoff past ejection.
+     4. A graph plotting the results of your two models for _altitude_
+        for the F67-9W motor from liftoff past ejection.
+     5. A graph plotting the results of your two models for _altitude_
+        for the H128W motor from liftoff past ejection for the optimal delay time with the
+        GPS Altitude data from the 07/08/2023 flight
+     6. An explanation, possibly including a marked graph, explaining how you calculated
+        the optimal delay adjustment.
+  2. The model file from Open Rocket that includes your runs.
+  
+  Standard report components, such as introduction, conclusions, and recommendations
+  would be nice, but aren't required.
+  

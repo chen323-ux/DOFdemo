@@ -1,0 +1,317 @@
+**E178: High-Power Rocketry – Syllabus**
+ *Spring 2024* - [Harvey Mudd College](http://www.hmc.edu) - [Department of Engineering](https://www.hmc.edu/engineering/)
+  Prof. [R. Erik Spjut](http://erik.spjut.me), <spjut@g.hmc.edu>
+
+<span style="font-variant:small-caps;">|[home](index.html)|[syllabus](syllabus.html)|[assignments](assignments.html)|[labs](labs.html)|[final project](final_project.html)|[flight data](flight_data.html)|[getting certified](getting_certified.html)|</span>
+
+# Working Spaces
+
+We will be working in the following spaces:
+ * **Shanahan B470:** This is the classroom this semester. We will meet here most Tuesdays and
+   Thursdays.
+ * **Parsons B187:** The Rocket Lab. This is where the workbenches, tools, and supplies are kept.
+   It has a fume hood, a sink, and a soldering station. Most of the actual construction of
+   the rockets will take place here
+ * **Parsons B171:** The E80 Lab. We have rocket motors and motor casings stored in this lab.
+   You need to ask permission to use supplies, workspaces, or equipment in here.
+ * **McGregor Basement:** The Makerspace. If you haven't become certified on the Makerspace equipment,
+   especially the laser cutter and the 3D printers, you should do so. Parts of the rockets
+   are constructed from laser-cut plywood. There is also space for working with composites.
+ * **Beckman B101, B102:** The Student Machine Shops. Your life will be much easier if you are
+   able to use the machine shops for working on your rockets.
+
+My office is Parsons 2384 in the middle of the West hall on the top Floor of Parsons.
+You can make appointments to ensure I'll be available.
+Also, feel free to just stop by whenever the sign on my office door says "Please Knock"
+(It doesn't actually speak. You have to read it).
+I'm usually here by 7:30 am and stay until at least 3:30 pm.
+
+# Schedule
+
+The course calendar is on the <span style="font-variant:small-caps;">[home](index.md.html#Calendar)</span> page.
+For the first two-thirds of the course we will have class meetings on Tuesday and Thursday
+from 1:15 pm to 2:30 pm.
+The labs are due on
+Tuesdays by the start of class and the assignments are due on mostly
+Thursdays by the start of class. The schedule is
+designed to let you ask questions and resolve difficulties in class before the lab or
+assignment is due. The last third of the course will be the
+[Final Project](#courseformat/assignments,labs,exam,andfinalproject/finalproject).
+
+I will not have specific office hours, but you can schedule on-line or in-person meetings, usually with
+very short notice. I will have delayed responses to emails after 5 pm, and I will not
+respond until the next morning to emails after 9 pm on week days. I will have delayed
+responses to emails on Saturdays and I will not respond to emails on Sunday until Monday
+morning.
+
+## Flight Hardware
+
+You will be given kits for a [LOC Precision Weasel](https://locprecision.com/collections/rockets-1-63-diameter/products/weasel)
+and a [LOC Precision Vulcanite](https://locprecision.com/product/vulcanite-h76/). Your team
+will have access to parts for a modified [2.2" Madcow Adventurer](https://www.madcowrocketry.com/2-2-fiberglass-adventurer/),
+a modified [1.6" Madcow Go Devil](https://www.madcowrocketry.com/1-6-fiberglass-go-devil/),
+or a design of your choice for your [Final Project](finalproject.md.html).
+The Flight Hardware for the semester is discussed in depth on the
+[Flight Hardware](FlightHardware.md.html) page.
+
+## Actually Getting to Fly
+
+We have two scheduled launches in E178, one on Saturday, 6 April 2024 by ourselves, and
+the other at [ROC](https://rocstock.org)
+launch on Saturday, 13 April 2024. We have the proper permits for
+our own launch. We will work out transportation for the class to the launches.
+
+If you want to certify or collect data from your Level 1 and/or Level 2 rockets, you can
+attend the ROC, TV, and TSD launches on dates before our scheduled launches. I will have
+the HMC Canopies and tables and other
+supplies at the 10 February 2024 and the 9 March 2024 [ROC](https://rocstock.org) launches.
+You will be responsible for getting yourselves to the launch. If desired, we can coordinate
+travel to the [TSD](http://www.tripolisandiego.org) and/or [TV](https://www.tripolivegas.com/) launches.
+
+It is possible to go by yourself to fly your rockets. For G or smaller motors, in
+California the requirements are that you use commercial motors certified by the State of
+California and you have permission of the local landowner and of the local fire department.
+For high power rockets (H motors and larger) you **must** also have an FAA waiver as well as
+permission from the local authorities. In practical terms, that means that you need to
+fly at a sanctioned launch run by your local [Tripoli](http://www.tripoli.org/) or
+[NAR](https://www.nar.org/) prefecture, club or organization.
+A list of local Tripoli prefectures is [here][TRS]. A map version is [here][TRM].
+A locator for local NAR clubs is [here][NAS]. A map version is [here][NAM]. For
+Southern California, the closest clubs are:
+ - The Rocketry Organization of California ([ROC](https://rocstock.org)),
+ - Tripoli San Diego ([TSD](http://www.tripolisandiego.org)),
+ - Tripoli Vegas ([TV](https://www.tripolivegas.com/)),
+ - and Tripoli Central California ([TCC](http://tccrockets.com/v2/)).
+Check the respective websites for the latest information.
+
+# Texts
+  - Sampo Niskanen, [*Open Rocket technical documentation*][txt].
+  - Tom Benson, Ed., [*The Beginner's Guide to Rockets*][BegGui], NASA 2014
+  - Oliver J. Woodman, [*An introduction to inertial navigation*][InNav], University of Cambridge 2007
+  - [*Tripoli Level 2 Study Guide*][Tri2]
+  - [*NAR Level 2 Study Guide*][NAR2]
+
+# Electronic Communication
+
+  - Class web page: [http://pages.hmc.edu/spjut/AdvRoc/index.md.html](http://pages.hmc.edu/spjut/AdvRoc/index.md.html)
+  - Class email list: [eng-178-1-2024-sp@g.hmc.edu](eng-178-1-2024-sp@g.hmc.edu)
+  - Text or phone to cell number at the bottom of my emails. Please no texts or calls
+    after 9 p.m. or before 5 a.m. I will not respond or answer on Sundays.
+ 
+# Learning Outcomes
+* Students will demonstrate fundamental competence in the following areas of high-power rocketry:
+  * Design of a stable, reliable high-power rocket.
+  * Modeling of high-power rocket flight.
+  * Construction techniques including basic machining and use of epoxy for joints and fillets.
+  * Instrumentation of a high-power rocket (depending on flight availability).
+  * Analysis of flight data to determine performance characteristics.
+* Students will demonstrate the ability to plan and conduct a successful flight program to
+  answer specific questions in aerospace engineering in depth.
+* Students will demonstrate the ability to write clear technical documents to convey
+  engineering knowledge.
+
+# Course Philosophy and Goals
+## High Power Rocketry
+
+Why is this class called High Power Rocketry? The FAA recognizes two classes of amateur
+rockets:
+### Class 1 or Model Rockets
+Class 1 - Model Rocket means an amateur rocket that:
+
+ 1. Uses no more than 125 grams (4.4 ounces) of propellant;
+ 2. Uses a slow-burning propellant;
+ 3. Is made of paper, wood, or breakable plastic;
+ 4. Contains no substantial metal parts; and
+ 5. Weighs no more than 1,500 grams (53 ounces), including the propellant.
+
+### Class 2 or High Power Rockets
+Class 2 – High-Power Rocket means an amateur rocket other than a model rocket that is
+propelled by a motor or motors having a combined total impulse of 40,960 Newton-seconds
+(9,208 pound-seconds) or less.
+The National Fire Protection Association also has two codes covering amateur rockets that
+correspond closely with the FAA Class 1 and Class 2.
+NFPA 1122 – Model Rocketry
+NFPA 1127 – High Power Rocketry
+
+Thee two organizations in the US that sanction High Power Rockets are the National
+Association of Rocketry (NAR) and the Tripoli Rocketry Association (TRA). In order to fly
+a high power rocket at a NAR or Tripoli sanctioned event, you must be certified. The range
+of rockets you can fly with different certification levels are as follows:
+ - No Certification – Rocket up to total mass of 1.500 kg. Total propellant up to 0.125 kg.
+   Average thrust up to 80 N. Total impulse up to 160 Ns (e.g., a G motor).
+ - Level 1 Certification – Total Impulse up to 640 Ns (H or I motors).
+ - Level 2 Certification – Total Impulse up to 5,120 Ns (J, K or L motors).
+ - Level 3 Certification – Total Impulse up to 40,960 Ns (M, N, or O motors). California
+   limits total impulse to 10,240 Ns (M motors).
+
+This class is geared towards learning to model, build, instrument, fly, and analyze High
+Power Rockets.
+
+## Modeling
+A model is a set of equations or computer code that describes the flight of the rocket.
+The forces and torques in a rocket model come from gravity, thrust, lift, and drag. Models
+are classified as 1-D, 2-D, or 3-D models. A 1-D model assumes that the rocket flies
+straight up and falls under parachute straight down. A 2-D (or 3 DoF) model assumes that
+the rocket can travel vertically and horizontally, and rotate in the 2-D plane of motion.
+A 3-D (or 6 DoF) model assumes that the rocket can travel in 3-D space and rotate about
+any of its three principal axes. The required modeling in E178 is:
+
+ 1. Develop or prove an analytic 1-D model with constant thrust during motor burning, and a
+    constant coefficient of drag during the flight.
+ 2. Learn to use a 2-D (3 DoF) open source program called Open Rocket to model and predict
+    rocket behavior. Use this code for all three rockets you will construct.
+ 3. Develop and/or use a 1-D code to permit calculation of $C_D$ and thrust curves from
+    flight data.
+
+## Building
+During the course of the semester you will build two rockets by yourself, and work as part
+of a team to build a third.
+
+The first rocket is a LOC Weasel, a cardboard, plywood, and
+plastic rocket that will be assembled using 5-minute epoxy and screws. You use 5-minute
+epoxy to acquaint you with proper and safe use of epoxy in rocket building, but with a
+quick cure time. It is suitable for a Level 1 flight.
+
+The second rocket is a LOC Vulcanite,
+again a cardboard, plywood, and plastic rocket, but modified to use dual deployment for
+recovery. It is constructed with Aeropoxy, a slow-curing epoxy that is much stronger than
+5-minute epoxy. It is overkill for the Vulcanite, but it is much trickier to work with than
+the 5-minute epoxy, and will give you practice for the Final Project rocket.
+
+The third rocket is for your Final Project. It is a chance to demonstrate everything you've
+learned during the semester as well as explore some aspect of rocketry that interests you
+in depth.
+
+# Course Format
+See the [calendar](index.md.html#Calendar) for schedule. The course for 2024 will consist
+of meetings on Tuesdays and Thursdays to discuss and plan the work for the week
+and to discuss the solutions or results for the previous week's work. We will have both
+weekly labs/construction projects and weekly problem-set-style assignments as well as the final
+project. The deliverables will be due by the start of class on the indicated day. The
+assignment deliverables are due on Gradescope. The lab deliverables vary as to how they
+will be submitted
+
+**Outside of Class Time**
+    
+    You and/or your team will have to find time to solve the assigned problems, develop
+    the needed models and software, construct the needed hardware, conduct the necessary
+    experiments, analyze the data, and write up the results.
+    This course is a three-unit course, so the catalog expectation is three hours in class
+    and six-to-nine hours outside of class. I would like you to track your hours and let
+    me know if the workload is too excessive.
+
+## Teams
+
+Much of the work in class will be done in teams of two (or three). We will determine the teams very
+early in the semester. You may certainly collaborate with each other
+on the assignments and labs, either as teams or as a whole class. Each lab and assignment
+will have a list of deliverables. Even though most of the work in
+class can be done in teams, each student must 
+submit individual assignment solutions for Assignments 1 through 7, and individual lab
+deliverables for Labs 1, 2, 4, & 5. 
+You must work on the Final Project as a team. For Final Projects
+the Final Report will be submitted by the team, and not individually.
+The [Tech Memo Guidelines](PDF/TechMemoGuidelines2018.pdf) explains
+more about the expected format. They may be submitted as .docx, .pdf, google doc, or hard copy.
+ 
+## Assignments, Labs, Exam, and Final Project
+
+See the [Labs](labs.md.html) page for more details on the individual labs.
+
+See the [Assignments](assignments.md.html) page for more details on the individual assignments.
+
+The course is designed to
+take about 12 hours per week total for in-class, lab, and reports. If you find any single
+task is taking too long, contact Prof. Spjut to get help or the solution to that part.
+Teams (or the whole class) may work together and/or delegate to develop the information
+for the reports, e.g., derivations, software models, plots, but each student must write up
+the connecting material and explanation individually for Assignments 1 through 7, and Labs
+1, 2, 4, & 5.
+
+### Level 2 Exam
+
+To both test your knowledge of the subject matter, and to prep you for certifying Level 2,
+we will have a multiple-choice exam covering all of the questions in both the [Tripoli][Tri2]
+and [NAR][NAR2]
+study guides. It is due as Assignment 7. Practice exams and the
+for-a-grade exam are available on Gradescope.
+
+### Final project
+
+More details of the Final Project are found on the [Final Project](finalproject.md.html) page.
+What's given below is a general outline.
+
+For your final project, you must include at a minimum:
+
+ - Characterization of motor performance on each flight (the thrust curve, total and specific impulse)
+ - Characterization of flight and flow dynamics on each flight ($C_D$ and vertical $a$,
+   $v$, and $z$).
+  
+In addition, you may choose to demonstrate an in-depth understanding of either one of
+the above areas or one of the following areas:
+
+ - Characterization of avionics and telemetry
+ - Characterization of structural dynamics 
+ - Fluid mechanics and CFD
+ - Risk and reliability
+
+#### Project Proposal
+
+  By 29 February 2024, you need to submit a preliminary project plan. It must contain:
+  - Your preliminary objectives, i.e., answers to the questions:
+    -  What objectives do you have for your project?
+    -  What information or data do you need to have, e.g., acceleration, barometric altitude, rotation
+       rate, magnetic field, GPS coordinates, internal or external temperature, light intensity,
+       still or video images, or other sensor data; materials properties, planetary masses,
+       specific impulses, etc.?
+    -  How do you plan on acquiring the information or collecting the data?
+    -  Do you plan on any special or custom data processing or modeling?
+    -  Do you have any major modifications to be made to your rocket?
+    -  What questions do you expect your project to answer?
+  - The modeling, programming, or construction tools you expect to use.
+  - A preliminary project schedule.
+  
+  By 19 March 2024, you need to submit a final project proposal. It must contain:
+  - Your final objectives with supporting details.
+  - The modeling, programming, or construction tools you are going to use.
+  - A final project schedule with milestones and deliverables. See the course calendar
+    for the milestone dates.
+
+#### Final Report
+
+The final draft of the Final Report is due 25 April 2024 by 11:50 p.m.
+The [Tech Memo Guidelines](TechMemoGuide.md.html) explains
+more about the expected format. It may be submitted as .docx, .pdf, google doc, or hard copy.
+
+# Level 1 & Level 2 Certification
+This year, you will be constructing a Level-1 capable rocket, and a Level-2
+capable rocket, and be graded on the quality of the construction and flight worthiness.
+It is recommended that you certify, but it is not required. However, if your team wants
+to make major modifications to the Class Rocket for the final project, you both need to
+be certified Level 2 by the end of Spring Break. A [guide to certification][cert] is [here][cert]. We
+will discuss Level 1 and Level 2 certification in class.
+
+# Grading
+   Item         | Weight |
+---------------------------|---------------------|
+Labs:      | 30% (6% per report)|
+Assignments:      | 27% (3% per report)|
+Final Project/Report: | 43%         |
+
+<!-- List of references -->
+[txt]: https://github.com/openrocket/openrocket/releases/download/OpenRocket_technical_documentation-v13.05/OpenRocket_technical_documentation-v13.05.pdf
+[BegGui]: https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html
+[InNav]: https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-696.pdf
+[Tri2]: https://www.tripoli.org/docs.ashx?id=1104356
+[TRS]: http://www.tripoli.org/Portals/1/Documents/Prefectures/Prefectures%20by%20ID%2001-2021.pdf
+[TRM]: http://www.tripoli.org/Prefectures
+[NAR2]: https://www.nar.org/wp-content/uploads/2020/10/HPRL2-2020-V2_STUDY_GUIDE.pdf
+[NAS]: https://www.nar.org/find-a-local-club/nar-club-locator/
+[NAM]: https://www.nar.org/find-a-local-club/nar-map-locator/
+[1320]: https://wildmanrocketry.com/collections/motors-aerotech-38mm-1320
+[1080]: https://wildmanrocketry.com/collections/motors-aerotech-38mm-1080
+[6G]: https://wildmanrocketry.com/collections/38mm-6-grain
+[6XL]: https://wildmanrocketry.com/collections/38mm-6-grain-xl
+[cert]: RocketryCertification.md.html
+
+<!-- End of the world as we know it. -->

@@ -1,0 +1,343 @@
+**Rocketry Certification**
+<span style="font-variant:small-caps;">|[home](index.html)|[syllabus](syllabus.html)|[assignments](assignments.html)|[labs](labs.html)|[final project](final_project.html)|[flight data](flight_data.html)|[getting certified](getting_certified.html)|</span>
+
+E178, High-Power Rocketry previously has a pre- or co-requirement of either [NAR][NCRT] or [TRA][TCRT]
+Level 1 certification and a strong recommendation of Level 2 certification. In stead of that
+requirement, you will construct a Level-1 capable rocket and a Level-2
+capable rocket, and be graded on the quality of the construction and flight worthiness,
+as well as pass an exam with all of the Level 2 exam questions for both organizations
+on it. That way I am certain about your rocket-building ability, but we don't have to
+worry about the weather or launch cancellations
+If you have access to a [TRA][TRA] or [NAR][NAR] launch site you are encouraged to do
+both Level 1 and Level 2 certification.
+The purpose of this page is to briefly explain the process for certification, and to provide
+links to additional resources.
+
+# Why Certify?
+To fly motors larger than a G, a person must be certified. Level 1 certification lets you fly
+rockets with H or I motors. Level 2 certification lets you fly J, K, and L motors. In California,
+Level 3 certification lets you fly M motors. Outside of California, Level 3 lets you fly M and up.
+
+# TRA or NAR?
+To become certified you must belong to either the Tripoli Rocketry Association [TRA][TRA] or
+the National Association of Rocketry [NAR][NAR] and certify with [one][TCRT] or the [other][NCRT]
+(or both if you want). Either is acceptable and in general, if you are certified by one of
+them, you can fly at a launch administered by the other of them. Here is a list of the 
+major differences:
+* TRA is focused on high power rocketry and rocketry research, but they allow model rockets.
+  NAR is focused on model rocketry, but they support high power as well.
+
+* Certifying Level 1 with TRA requires that you have a Prefect observe the flight. Certifying
+  Level 1 with NAR requires that you are observed by any member with Level 2 certification.
+
+* NAR has many more member. TRA is a smaller community.
+
+* TRA's annual national launch is LDRS (Large and Dangerous Rocket Ships). NAR's annual launch
+  is NSL (National Sport Launch).
+
+Once you've decided which to join, go to the relevant website and sign up. It is possible to join
+on site, the day that you certify, but it's better to join a month or so before your certification
+flight. Tripoli describes membership [here][TMEM] and the actual sign-up form is [here][TFRM].
+NAR describes membership [here][NMEM] and the actual sign-up form is [here][NFRM].
+
+The closest high-power rocketry club to Harvey Mudd College is
+the [Rocketry Organization of California (ROC)][ROC]. In non-COVID-19 times they
+fly every month on the second Saturday at the [Lucerne Valley dry lake bed][ROCL]. They have a couple
+of TRA prefects and a large number of NAR observers. I strongly recommend you certify with them.
+The high power on-site vendors keep changing due to economics and other factors. Check
+the [Vendors List on the ROC website](https://rocstock.org/vendors/) to see who is likely to be on site.
+
+# Level 1
+The detailed description of TRA's Level 1 certification process is [here][TL1].
+The detailed description of NAR's Level 1 certification process is [here][NL1]. In short,
+the process is:
+
+1. By yourself, build a rocket designed to fly on H impulse or I impulse motors.
+2. Prep the rocket for flight and prep the H or I motor for flight by yourself.
+3. Fly the rocket while the required observer is watching (at a sponsored event).
+4. Bring back the safely recovered rocket to the observer to verify that no damage
+   has occurred that would keep it from flying again.
+
+## Level 1 Strategy
+Most people trying to certify Level 1 build the simplest, least expensive (SLE) rocket they can that 
+will fly on a small H motor. The thinking is that once you are certified, you can experiment with
+more complicated configurations, but the first order of business is to get certified. However,
+if you are a person who pays attention to detail and are willing to ground test before flight,
+you can certify on a more complex, and more expensive rocket. My Level 1 rocket was fairly
+simple but not particularly inexpensive. My Level 2 was much more complicated than most
+people fly to certify, but it functioned perfectly.
+
+If you choose your rocket carefully, you can certify both Level 1 and Level 2 on the same
+rocket (and on the same day, but most senior people recommend against same-day multi-certs).
+
+## Level 1 motor recommendations
+You can certify on either an H or an I motor, but you cannot take possession of the motor until
+just before your flight. You can have someone already Level 1 or above (like Prof. Spjut)
+buy it for you and give it to you when you're ready to prep for launch. Or you can buy it
+at the launch site when you're ready to prep for launch.
+
+### Aerotech or CTI?
+You have three choices for a motor for a qualifying flight: An [Aerotech][AT] single-use motor,
+an [Aerotech][AT] reload, or a [CTI][CTI] reload. Both the Aerotech and CTI reloads require you to have
+a motor case. Aerotech single-use motors are slightly more expensive than
+either brand of reload, but the CTI cases for the reloads are expensive, and the Aerotech cases
+for the reloads are even more expensive. Prof. Spjut has cases you can borrow for the most common Aerotech sizes,
+and a case or two for CTI motors, so a reload with a borrowed case is the cheapest way to go.
+For a SLE rocket, the top two choices are the Aerotech [H128W-14A][AH]
+reload and the CTI [H163-14A][CH] reload, but for SLE you can use any H reload that fits in the [Aerotech 29/180 case][A29]
+or any H reload that fits in the [CTI 29mm 3-grain case][C29]. Many vendors have a qualification discount
+for your first HP motor for a qualifying flight.
+
+## Level 1 rocket recommendations
+
+There are lots of rockets that will work for Level 1 and Level 2 qualification flights. By no
+means consider the list below to be exhaustive.
+
+### LOC Weasel
+You will have to build one of these as part of the [first two labs](labs.md.html). It will easily let you
+certify Level 1 (assuming you include the GPS Tracker) if you follow the construction techniques.
+In addition to the [kit](https://locprecision.com/collections/rockets-1-63-diameter/products/weasel), you will need
+an Estes 29mm motor retainer and 5-minute epoxy. The perfect cert motor for this rocket
+is the Aerotech H128W. The class assembly instructions are [here](https://pages.hmc.edu/spjut/AdvRoc/CardboardWeaselRocketAssembly.md.html).
+
+### Madcow 1.6" Mini DX3
+Before the recent price hikes, this was the rockets built in the [first two labs](labs.md.html). It will easily let you
+certify Level 1 (assuming you include the GPS Tracker) if you follow the construction techniques.
+In addition to the [kit](https://www.madcowrocketry.com/1-6-mini-dx3/), you will need
+an Estes 29mm motor retainer and 5-minute epoxy. The perfect cert motor for this rocket
+is the Aerotech H128W. The former class assembly instructions are found [here](CardboardDX3RocketAssembly.md.html).
+
+### Estes Pro Series II
+The least expensive way to certify Level 1 is to buy an [Estes Pro Series II][EPS] with a
+29 mm motor mount (not 24 mm) for
+between $20 and $40 and make the modifications to fly it on an H motor.
+The [Super Big Bertha](https://estesrockets.com/products/super-big-bertha?_pos=1&_psq=super+big+bertha&_ss=e&_v=1.0)
+is an upscale of a classic Estes rocket and may be worth considering. If you can't get Pro Series II rocket
+for around $20-to-$40, you're better off spending your
+money on the Madcow or one of the other rockets below.
+
+To modify a Pro Series II for an H motor:
+  * Leave out the engine block on the motor mount if the kit has one.
+  * Put epoxy fillets on the fin joints.
+  * Replace the shock cord with 10 to 15 feet of kevlar and attach it to the motor mount or through the wall, not just glued on.
+  * Consider replacing the existing 1/4" launch lugs with heftier 1/4" launch lugs or rail guides.
+  
+These rockets do not feature very rugged construction and will survive a few flights, but
+don't plan on doing much more than qualifying on it. Available from [Estes][EPS], 
+[eRockets](http://www.erockets.biz/pro/),
+[Sirius](https://www.siriusrocketry.biz/ishop/estes-pro-series-ii-kits-155/).
+
+### Aerotech Arreaux
+The Aerotech Arreaux is an excellent SLE rocket. However, to fly H motors, you'll need to
+replace the stock 12" motor mount tube with a 15" or ~18" motor mount tube. See the construction
+hints [below](http://pages.hmc.edu/spjut/AdvRoc/RocketryCertification.md.html#constructionhints/aerotecharreaux).
+Beyond the kit and
+the extra tube, all you need are CA adhesive
+and JB weld. We used modified Arreauxs in E80 for years. It's much sturdier than the Estes
+Pro Series II, but not as sturdy as the Phobos, the Vulcanite, the Wildman Minis, or the Madcow thin-wall
+fiberglass. The rocket is available from [Wildman](https://wildmanrocketry.com/collections/aerotech-1-9-inch/products/arreaux),
+[eRockets](http://www.erockets.biz/aerotech-flying-model-rocket-kit-arreaux-w-alum-retainer-89013/),
+[Sirius](https://www.siriusrocketry.biz/ishop/aerotech-arreaux-739.html),
+[Apogee Components](https://www.apogeerockets.com/Rocket_Kits/Skill_Level_3_Kits/Arreaux?cPath=1_85&zenid=l6mkupg4hcvh3itqubmpe2u9t3).
+The replacement motor mount tube is available from [Aerotech](https://www.aerotechstore.com/products/product_16e318e6-c2fd-e5a5-d053-3e84f31591c7),
+or [eRockets](http://www.erockets.biz/aerotech-motor-mount-tube-29-mm-x-17-3-4-inch-12918/).
+
+### PML Phobos
+The PML Phobos is an extremely rugged and reliable kit. If you pay attention to the instructions
+and are careful during construction it will last for years. You will want the parachute upgrade
+and the HAMR motor retainer. If you get the 38mm motor mount instead of the 29mm, you can certify
+Level 2 on it as well, but you'd want to make certain of your construction techniques and
+replace the standard circular launch lugs with rail guides. Available from
+[LOC Precision](https://locprecision.com/collections/rockets-2-26-diameter/products/phobos),
+[eRockets](http://www.erockets.biz/public-missiles-pml-flying-model-rocket-kit-phobos/).
+
+### LOC Precision Vulcanite
+You will build a Vulcanite as part of [Labs 4 and 5](labs.md.html).
+The Vulcanite is a fairly rugged rocket that can be used for both Level 1 and Level 2 flights.
+It's not quite as rugged as the PML Phobos. You'll want to order an Aero Pack Quick Change
+motor retainer.
+See building recommendations [below](#constructionhints/locprecisionvulcanite) if you want to try to cert
+Level 2 on it as well, or
+just want a very well constructed rocket. If you go for your Level 2 with it, you'll want
+to use the Aerotech J270W-14A motor with 0.6g of BP.
+Available from [LOC Precision](https://www.locprecision.com/product/vulcanite-h76/),
+[Wildman](https://wildmanrocketry.com/products/vulcanite-h76),
+[eRockets](http://www.erockets.biz/loc-precision-flying-model-rocket-kit-vulcanite-h76-pk-52/),
+[Sirius](https://www.siriusrocketry.biz/ishop/loc-vulcanite-1805.html).
+
+### Wildman Mini
+Any of the Wildman Mini series rockets will work very well as a Level 1 qualifying rocket.
+They are extremely sturdy and will last for years. Be sure to get the quick-change retainer.
+The Nomex chute protector is also useful, but may only last a few flights. Consider the
+dual deploy upgrade if you don't want an SLE rocket. Available from
+[Wildman](https://wildmanrocketry.com/collections/wildman-mini).
+
+### Madcow
+[Madcow](https://www.madcowrocketry.com) has a number of rockets that will work for
+Level 1 and Level 2 flights. The previous E190 Class Rocket
+was a modified version of the Madcow Go Devil 38. However, the instructions are much less
+detailed and are designed for more experienced builders. 
+Consult Prof. Spjut if you would
+like assistance with choosing a [Madcow](https://www.madcowrocketry.com) kit.
+
+### Apogee Components
+One option to consider is the [Apogee Peregrine](https://www.apogeerockets.com/Rocket-Kits/Skill-Level-3-Model-Rocket-Kits/Peregrine).
+It is designed for dual deploy and will also work as a Level 2 rocket should you decide
+to use it. It has an amazing set of videos on construction if you need a little guidance.
+They also sell the [Zephyr](https://www.apogeerockets.com/Rocket-Kits/Skill-Level-3-Model-Rocket-Kits/Zephyr).
+
+# Level 2
+The detailed description of TRA's Level 2 certification process is [here][TL2].
+The detailed description of NAR's Level 2 certification process is [here][NL2]. In short,
+the process is:
+
+1. By yourself, build a rocket designed to fly on J impulse, K impulse, or L impulse motors.
+2. Take and pass the Level 2 qualifying test. The TRA study guide is [here][T2SG] and the NAR study
+   guide is [here][N2SG]. An equivalent exam will be part of the Advanced Rocketry class.
+   The NAR exam consists of 37 questions taken from the list of questions. You must get 32
+   correct to pass (meaning you can miss up to 5 questions). The TRA exam consists of 50
+   questions taken from the list of questions. You must get 45
+   correct to pass (meaning you can miss up to 5 questions).
+2. Prep the rocket for flight and prep the J, K, or L motor for flight by yourself.
+3. Fly the rocket while the required observer is watching (at a sponsored event).
+4. Bring back the safely recovered rocket to the observer to verify that no damage
+   has occurred that would keep it from flying again.
+   
+# Level 3
+Consult the relevant website. We will not focus on Level 3 in Advanced Rocketry
+
+# Level 1 Checklist
+  [ ] Join either TRA or NAR. Best to do a month before flight.
+  [ ] Construct yor rocket by yourself. Follow the hints below if using one of my recommendations.
+  [ ] Weigh your completed rocket and find the center of mass fully loaded ('chute, electronics, etc) but _without_ the motor.
+  [ ] Use either Rocksim/Open Rocket or the kit information to locate and label the _Center of Pressure_ (CP). The symbol is a circle with a dot in the middle, <big>☉</big>.
+  [ ] Decide on the motors you might use.
+  [ ] Using Rocksim/Open Rocket and your measured mass and CM, determine the optimal delay. The delays on the motors can be adjusted
+      downwards (but not upwards) in 2-second increments. Plan on adjusting the motor accordingly.
+  [ ] Determine how much black powder you will need for ejection. Weigh out the correct amount, and package it for travel.
+      PML used to have has guidelines for its kits. They tend to require much less than
+      other rockets.
+      For non-piston eject rockets, there are guidelines [here](http://hararocketry.org/hara/resources/how-to-size-ejection-charge/)
+      and [here](https://www.insanerocketry.com/blackpowder.html).
+  [ ] Print out and fill out a copy of the paperwork. They usually have it on site, but it doesn't hurt to bring your own copy.
+      The TRA form is [here](https://www.tripoli.org/docs.ashx?id=859597).
+      The NAR form is [here](https://www.nar.org/wp-content/uploads/2020/10/HPR-L1-APPL-2021-V1.pdf).
+  [ ] Check ahead of time that there will be someone at the launch who can handle the certification
+      procedure. TRA is more restrictive than NAR, but make sure someone will be there.
+  [ ] At the launch site, prep your motor and rocket according to your checklist. Nervous people without
+      checklists make mistakes.
+  [ ] Take your rocket and paperwork and find the person who will certify you, and follow their instructions.
+
+# Level 2 Checklist
+  [ ] Make sure you are a member of either TRA or NAR, you have your member number, and you have certified Level 1.
+  [ ] Study for the exam. Just memorize the answers. It's easier than trying to figure out why they chose certain answers.
+  [ ] Construct your rocket by yourself. Follow the hints below if using one of my recommendations.
+  [ ] Weigh your completed rocket and find the center of mass fully loaded ('chute, electronics, etc) but _without_ the motor.
+  [ ] Use either Rocksim/Open Rocket or the kit information to locate and label the _Center of Pressure_ (CP). The symbol is a circle with a dot in the middle, <big>☉</big>.
+  [ ] Decide on the motors you might use.
+  [ ] Using Rocksim/Open Rocket and your measured mass and CM, determine the optimal delay. The delays on the motors can be adjusted
+      downwards (but not upwards) in 2-second increments. Plan on adjusting the motor accordingly.
+  [ ] Determine how much black powder you will need for ejection. Weigh out the correct amount, and package it for travel.
+      PML used to have has guidelines for its kits. They tend to require much less than
+      other rockets.
+      For non-piston eject rockets, there are guidelines [here](http://hararocketry.org/hara/resources/how-to-size-ejection-charge/)
+      and [here](https://www.insanerocketry.com/blackpowder.html).
+  [ ] Print out and fill out a copy of the paperwork. They usually have it on site, but it doesn't hurt to bring your own copy.
+      The TRA form is [here](https://www.tripoli.org/docs.ashx?id=859597).
+      The NAR form is [here](https://www.nar.org/wp-content/uploads/2022/01/HPR-L2-APPL-2021-V1.pdf).
+  [ ] Check ahead of time that there will be someone at the launch who can handle the certification
+      procedure. TRA is more restrictive than NAR, but make sure someone will be there.
+  [ ] At the launch site, approach the person who will certify you, and take and pass the Level 2 exam.
+  [ ] Prep your motor and rocket according to your checklist. Nervous people without checklists make mistakes.
+  [ ] Take your rocket and paperwork and find the person who will certify you, and follow their instructions.
+  
+  
+# Construction Hints
+
+## Aerotech Arreaux
+1. It’s worth buying an extra-length motor-mount tubes to cert level 1. A length of at
+   least 15" will work for Aerotech 29/180 or shorter motors. _You'll need to fiberglass your rocket
+   to fly motors with more than 180 Ns of impulse_. You will need a length of at
+   least 16¼" for the H115DM-14A, the H182R-14A, the H135W-14A, and the H195NT-14A, and a
+   length of at least 19¾" for the I205W-14A. For the extra-length motor mount tube, you can either order
+   the replacement motor mount tube  from [Aerotech](https://www.aerotechstore.com/products/product_16e318e6-c2fd-e5a5-d053-3e84f31591c7),
+   or [eRockets](http://www.erockets.biz/aerotech-motor-mount-tube-29-mm-x-17-3-4-inch-12918/).
+2. You won't need the 24 mm motor adaptor and don't need to construct it. Most of the parts
+   are no longer in the kit.
+3. You need to attach the included motor retainer instead of the Motor Hook, Thrust Ring,
+   and Thrust Ring Flange. These changes are detailed in the Arreaux Motor Retainer Upgrade
+   Notice. Attaching the motor retainer should be done AFTER the rest of the rocket construction
+   is completed (after Step 1 of the FINAL ASSEMBLY AND FINISHING in the instructions), otherewise
+   it will block the application of the cyannoacrylate to the fin roots and the aft Centering Ring.
+   Use JB Weld to attach it. The details are in the Aerotech 29 mm Motor Retainer Instructions
+   (all on the Aerotech website <http://www.aerotech-rocketry.com/resources.aspx?id=4> near the bottom of the page).
+4. Use tapped holes and threaded #6 nylon screws to secure the nosecone to the payload section.
+   Two is the minimum, three is recommended, four is allowed. Friction fitting with tape isn't sufficient.
+5. It's often useful to be able to replace either the body or the payload/nosecone. The recessed
+   screw eye on the payload section makes it difficult. You may want to make an extension out of
+   1/8" rope and a quik-link and attache the shock cord to the quik-link.
+6. Make sure you can dry-fit the fins BEFORE you CA them in place. You may need to sand down
+   the ridges a little to be able to snap the fins into place.
+7. Other suggestions are on the [old E80 website](https://pages.hmc.edu/spjut/RocketE80/RocketLaunchLab.html).
+
+## LOC Precision Vulcanite
+The [build instructions](VulcaniteRocketAssembly.md.html) for [Labs 4 and 5](labs.md.html)
+already incorporate most of the hints below.
+1. Be sure to roughen all surfaces to be epoxied, with 60, 80, or 100 grit sandpaper **before** you glue so
+   that the epoxy adheres better.
+2. Get an Aero Pack RA 38mm L motor retainer.
+3. Sand the bottom 3/8" of the motor mount tube until the motor retainer slides on easily.
+4. Replace the elastic shock cord in the kit with 12 ft to 15 ft of either tubular/strap nylon or tubular/strap Kevlar,
+   such as PML STRP-0.375, eRockets ER9044, Wildman [KEVLAR1/4"](https://wildmanrocketry.com/collections/kevlar/products/kevlar1-4), or Madcow SC_FLT_38_RED.
+5. Use either the PML mounting style or the Modified PML mounting style for the shock cord. For the PML style,
+   follow steps 1 & 2 in the [Phobos Instructions](https://publicmissiles.com/secure/images/Phobosinstructionbooklet.pdf).
+   You'll have to machine or file a notch in one of the centering rings to accomodate the shock cord.
+   The centering ring on the other end (held in place with tape), must be **at least** 3/8"
+   from the end of the motor mount tube and preferably 1/2" to accomodate the motor retainer.
+   When assembled, the motor mount will protrude from the end of the rocket a bit. The modified
+   PML style is similar, but instead of epoxying the shock cord axially to the motor mount, it is
+   tied radially around the motor mount tube and included in the epoxy fillet between the 
+   motor mount tube and the centering ring. Step 2 of the Madcow [Batray instructions](https://www.madcowrocketry.com/content/pdf/batray.pdf)
+   show the tying technique, but has the notch on the outside of the centering ring instead
+   of on the inside where it belongs. 
+6. If you want streamlined fins, round the leading edge, and taper the trailing edge. Leave
+   the inside and outside edges square.
+7. Consider laser-cutting a pair of fin guides to ensure the fins are perpendicular to the body tube.
+8. Use the PML technique to attach the fins as shown in Step 4 of the [Phobos Instructions](https://publicmissiles.com/secure/images/Phobosinstructionbooklet.pdf).
+   When you finally epoxy in the bottom centering ring, push it flush up against the fins.
+9. When prepping the Payload Bay, consider finding a screw eye that attaches with a nut and washer
+   rather than just a wood-screw end.
+10. When you epoxy in the coupler tube bulkhead, recess it at least 1/8" so that you can put
+    a decent fillet between the bulkhead and the coupler tube on the outside. **DO NOT make
+    the bulkhead flush with the end of the coupler tube.** The LOC instructions say to, but
+    they are seriously wrong and you may lose your payload section when the recovery charge goes off.
+11. Secure the nose cone to the payload section with three countersunk #4 flat head screws.
+    You can use the pan head screws but they don't sit as flush.
+12. If you are planning on Level 2 (J) flights, either replace or supplement the launch lugs
+    with rail guides, either [PML LRL-10-2](https://publicmissiles.com/product/hardware) or [Acme 54mm](https://giantleaprocketry.com/products/components_launch_systems.aspx#Acme_Conformal_Launch_Guides).
+13. Secure the motor retainer with JB Weld.
+
+[TRA]: http://www.tripoli.org
+[TMEM]: http://www.tripoli.org/Membership
+[TFRM]: https://www.tripoli.org/content.aspx?page_id=60&club_id=795696
+[TCRT]: http://www.tripoli.org/Certification
+[TL1]: http://www.tripoli.org/Level1
+[TL2]: http://www.tripoli.org/Level2
+[T2SG]: https://www.tripoli.org/docs.ashx?id=1104356
+[NAR]: http://www.nar.org
+[NMEM]: http://www.nar.org/join-nar/
+[NFRM]: https://www.z2systems.com/np/clients/nar/membershipJoin.jsp
+[NCRT]: http://www.nar.org/high-power-rocketry-info/
+[NL1]: http://www.nar.org/high-power-rocketry-info/level-1-hpr-certification/
+[NL2]: http://www.nar.org/high-power-rocketry-info/level-2-hpr-certification/
+[N2SG]: https://www.nar.org/wp-content/uploads/2020/10/HPRL2-2020-V2_STUDY_GUIDE.pdf
+[ROC]: https://rocstock.org
+[ROCL]: https://rocstock.org/lucerne-dry-lake-launch-site/
+[EPS]: https://estesrockets.com/collections/pro-series-ii
+[AT]: http://www.aerotech-rocketry.com
+[AH]: https://www.siriusrocketry.biz/ishop/aerotech-high-power-h128w-14a-reload-kit-362.html
+[A29]: https://wildmanrocketry.com/collections/29mm/products/29180m
+[CTI]: http://www.pro38.com
+[C29]: https://www.apogeerockets.com/Rocket_Motors/Cesaroni_Casings/29mm_Casings/Cesaroni_29mm_3-Grain_Case
+[CH]: https://wildmanrocketry.com/collections/29mm-3-grain/products/pr29-3g-wt
+

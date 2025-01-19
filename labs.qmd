@@ -1,0 +1,77 @@
+**E178: Spring 2024 Labs**
+
+<span style="font-variant:small-caps;">|[home](index.html)|[syllabus](syllabus.html)|[assignments](assignments.html)|[labs](labs.html)|[final project](final_project.html)|[flight data](flight_data.html)|[getting certified](getting_certified.html)|</span>
+  
+  [**Preliminary Assembly Level 1**](labs/lab1.md.html) – Using proper technique assemble
+  the motor-tube - rings - shock-cord assembly and the payload/nose cone assembly
+  (Forward Section) of your Weasel kit. Prof. Spjut will inspect your assemblies on the due
+  date and immediately return them to you, so you can start on Final Assembly.
+
+# Lab 2 – Due 20240130
+  
+  [**Final Assembly Level 1**](labs/lab2.md.html) – Using proper technique
+  complete the assembly of your Weasel rocket. Also laser cut and 
+  assemble the electronics bay support and mount and test the avionics. Prof. Spjut will
+  inspect your assemblies on the due date and immediately return them to you, so you can
+  finish ground testing and launch on 10 February 2024 at ROC if you desire.
+
+# Lab 3 – Due 20240206
+  
+  [**Fin Fillet Test**](labs/lab3.md.html) – Make sample fin joints with
+  fillets using fiberglass and epoxy, one with just epoxy, one with glass-microballoon
+  filler and one with milled glass-fiber filler. Perform destructive tests to determine
+  the strength of your joints.
+  
+  The results are in the [Lab 3 Link](labs/lab3.md.html)
+  
+!!! note
+    The destructive tests are scheduled 8 February 2024 in the MTS lab.
+
+# Lab 4 – Due 20240220
+  
+  [**Preliminary Assembly Level 2**](labs/lab4.md.html) – Using proper technique assemble
+  the motor-tube - rings -shock cord assembly, the GPS Bay/Nose Cone assembly, the GPS
+  Support and the Avionics Bay – forward body tube assembly
+  of your Vulcanite kit. You will not populate the avionics on either the GPS support or
+  the Avionics Bay for this lab. Prof. Spjut will inspect your assemblies on the due
+  date and immediately return them to you, so you can start on Final Assembly.
+
+
+# Lab 5 – Due 20240227
+  
+  [**Final Assembly Level 2**](labs/lab5.md.html) – Using proper technique
+  complete the assembly of your Vulcanite rocket. Populate and wire up your avionics bay
+  with the Eggfinder Quark and the Teensy Data Logger. Populate and wire up your
+  GPS Support. Prof. Spjut will
+  inspect your assemblies on the due date and immediately return them to you, so you can
+  finish ground testing and launch on 09 March 2024 at ROC if you desire.
+
+<!-- # Lab 6 – Due 20 March 2024
+  
+  [**Analysis of Weasel/Mini-DX3 Flight Data**](labs/lab6.md.html) – If you were able to fly your
+  LOC Weasel with the Featherweight GPS and the Small Teensy Data Logger, analyze the flight
+  data. If you were unable to fly your Weasel, use the Mini-DX3 flight data in the G77-10R/L and G79-10W/L data files.
+  in the [Flight Data](FlightData.md.html#flightdatafiles/madcowminidx3firstflight). Compare the
+  corrected barometric altitude with the GPS altitude and the predicted Open Rocket or
+  Rocksim altitude. Compare the measured/calculated acceleration and velocity with the
+  predicted Open Rocket or Rocksim acceleration and velocity. Compare the measured/calculated $C_D$
+  vs. $v$ with that from Open Rocket or Rocksim. Compare the measured/calculated thrust
+  curve with that from [Thrustcurve.org](https://www.thrustcurve.org). Comment on your
+  flight data as compared to the models and data from other sources. What have you learned?
+  What questions would you want to answer with further flights? -->
+  
+  <!-- My solution for Lab 6 is [here](labs/Lab6_Soln.pdf). -->
+  
+<!-- # Lab 7 – **A Victim of COVID**
+  
+  [**Analysis of Vulcanite Flight Data**](labs/lab7.md.html) – If you were able to fly your
+  Vulcanite with the Featherweight GPS and the Small Teensy Data Logger, analyze the flight
+  data. If you were unable to fly your Vulcanite, use the linked data files. Compare the
+  corrected barometric altitude with the GPS altitude and the predicted Open Rocket or
+  Rocksim altitude. Compare the measured/calculated acceleration and velocity with the
+  predicted Open Rocket or Rocksim acceleration and velocity. Compare the measured/calculated $C_D$
+  vs. $v$ with that from Open Rocket or Rocksim. Compare the measured/calculated thrust
+  curve with that from [Thrustcurve.org](https://www.thrustcurve.org). Comment on your
+  flight data as compared to the models and data from other sources. What have you learned?
+  What questions would you want to answer with further flights? -->
+

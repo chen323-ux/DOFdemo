@@ -1,0 +1,30 @@
+/* css styles */
+
+
+body {
+    max-width: 1200px; /* Set a maximum width */
+    margin: 0 auto;    /* Center the page */
+  }
+
+
+/* Adjust the sidebar width */
+.quarto-toc {
+    width: 200px; /* Set the desired width */
+}
+
+/* Add spacing between the sidebar and main content */
+.quarto-toc-container {
+    margin-right: 20px; /* Adjust the margin as needed */
+}
+
+/* Improve the font size for better readability */
+.quarto-toc li {
+    font-size: 14px; /* Adjust font size */
+    line-height: 1.6; /* Improve spacing */
+}
+
+/* Add a border or background to the sidebar for better visibility */
+.quarto-toc {
+    border-left: 2px solid #ccc; /* Add a subtle border */
+    padding-left: 10px; /* Add padding inside the sidebar */
+}

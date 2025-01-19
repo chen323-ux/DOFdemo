@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Prof. Spjut's Rock Web"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: assignments.qmd
+        text: Assignments
+      - href: labs.qmd
+        text: Labs
+      - href: final_project.qmd
+        text: Final Project
+      - href: flight_data.qmd
+        text: Flight Data
+      - href: getting_certified.qmd
+        text: Getting Certified
+
+
+
+
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: True
+
+
+

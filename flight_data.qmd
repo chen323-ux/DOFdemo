@@ -1,0 +1,283 @@
+**E178: Spring 2024 Final Project**
+
+<span style="font-variant:small-caps;">|[home](index.html)|[syllabus](syllabus.html)|[assignments](assignments.html)|[labs](labs.html)|[final project](final_project.html)|[flight data](flight_data.html)|[getting certified](getting_certified.html)|</span>
+    
+# Purpose
+The purpose of the Final Project is to give you a chance to demonstrate the lessons you
+have learned during the semester (and during your time at Mudd) and put them into practice
+during a series of four flights over two launches. The project will be conducted in your
+teams of two that you have had throughout the semester.
+
+# Schedule
+If everything goes according to plan (and it rarely does) there will be two days for flights:
+Saturday, 6 April 2024, and Saturday, 13 April 2024. The reason for the two flight days
+is that, in spite of the best planning, something can go wrong during flights, and it's
+really useful to have a week to fix the issues you ran into, and get a do-over. With that
+purpose in mind, you should be totally prepped for your first flight on 6 April 2024.
+We already have our permissions for the 6 April 2024 flights from the BLM and the FAA. To
+give you the best shot at being ready, here is the schedule of milestones and check-offs
+you need to meet.
+
+## Calendar
+          Date     | Milestone/Check-Off
+  ----------------:|----------------------
+  Thu, 29 FEB 2024 | Preliminary Design Documents and BOM
+  Tue, 19 MAR 2024 | Complete Design Documents and BOM
+  Thu, 21 MAR 2024 | Milestone 1
+  Tue, 26 MAR 2024 | Milestone 2
+  Thu, 28 MAR 2024 | Milestone 3
+  Tue,  2 APR 2024 | Avionics Tests
+  Thu,  4 APR 2024 | Ground Tests of Ejection Systems, Completed Airframe Construction and Inspection
+  Fri,  5 APR 2024 | Motor Prep, Flight Checklist due, Preflight Inspection
+  Sat,  6 APR 2024 | Class Launch, First Set of Flights
+  Thu, 11 APR 2024 | Analysis of First Set of Flight Data
+  Fri, 12 APR 2024 | Motor Prep, Preflight Inspection
+  Sat, 13 APR 2024 | Class Launch with ROC, Second Set of Flights
+  Thu, 18 APR 2024 | Analysis of Second Set of Flight Data
+  Thu, 25 APR 2024 | Final Reports Due
+
+# Flight Hardware
+You have the following choices for flight hardware:
+ - The standard class rocket, a modified Madcow Adventurer.
+   - The vendor information is [here](https://www.madcowrocketry.com/2-2-fiberglass-adventurer/).
+   - The assembly instructions are [here](ClassRocketAssembly.md.html).
+   - The Open Rocket model is [here](SimModels/ClassAdventurer.ork).
+   - Peak apogee is approximately 10,000 feet AGL.
+   - Peak velocity is approximately 800 mph (Mach 1.05).
+ - The previous class rocket, a modified Madcow Go Devil 38.
+   - The vendor information is [here](https://www.madcowrocketry.com/1-6-fiberglass-go-devil/).
+   - The _outdated_ assembly instructions are [here](38mmClassRocketAssembly.md.html).
+   - The Open Rocket model is [here](SimModels/ClassGoDevil38WAvionics.ork).
+   - Peak apogee is approximately 13,500 feet AGL.
+   - Peak velocity is approximately 1190 mph (Mach 1.5).
+ - A rocket design of your choice. To select this option _both_ team members _must_ be
+   certified Level 2 by 18 March 2024. **There are NO exceptions.**
+   - The vendor information is TBD.
+   - The assembly instructions are TBD.
+   - The Open Rocket model is TBD.
+   - Peak apogee is limited to 14,500 feet AGL.
+   - Peak velocity is TBD.
+  
+
+# Motors
+Our first launch on 6 April 2024 is by ourselves. The FAA altitude limit is
+14,500 feet AGL. We can use the biggest commercially available motors for theses flights.
+The second launch will be joint with ROC, as part of Rocstock. Their altitude limit is
+7000 feet AGL and _we cannot violate that limit_. You will need to choose two motors for the
+first week and two motors for the second week with the altitude limits in mind. You may
+choose from among any 38 mm CTI motor up to the 6GXL case, and among the 38 mm Aerotech
+motors up to the 1080 case. We do have RMS-38/1320 cases but Aerotech quit making the
+J510W that would fit in them.
+Use Open Rocket to check and choose which motors you want. The sooner you choose them, the sooner
+we will be able to get them here.
+
+<!-- Inventory
+   #| Motor     | I (Ns) | Brand    | Case     | Team
+  --|-----------|--------|----------|----------|-----
+  2 | J570W-14A | 973.1  | Aerotech | 38/1080  | 
+  2 |  J453-16A | 1013   |      CTI | P38-6GXL | 
+  1 |  J530-15A | 1115   |      CTI | P38-6GXL |
+
+-->
+
+
+# Check-Offs and Milestones
+  Here is the list of check-offs and milestones with specifications, up to, but not including
+  the first flights.
+  
+## Preliminary Design Documents and BOM
+   I need to see evidence that you will be ready for launch on 6 April 2024.
+   Put together a preliminary flight proposal that describes whether you will use the
+   standard class rocket or a different rocket, what the goals of your project are and
+   how you expect to achieve them, and what you expect the challenges to be.
+   You must include sketches or CAD (Solidworks and/or Rocksim/Open Rocket) drawings/models which
+   show your rocket and any modifications you intend to make. You also need
+   a preliminary bill of materials including what additional items need to be ordered and
+   whether you are going to order them or I am. We will try to get everything ordered as
+   quickly as we can after your plan and budget are approved. If you have any long-lead-time
+   items, let me know about them as early as you can, and we'll order them even
+   before your design documents are approved.
+   
+## Complete Design Documents and BOM
+   You are free to get your design documents approved before the due date. In fact, I
+   would recommend it so you can get an early start on your construction.
+   In addition to the information you put together for your preliminary flight propoasal,
+   you need **complete** CAD (Solidworks and/or Rocksim/Open Rocket) drawings/models which
+   show every detail of the modifications you intend to make to your rocket. You need a
+   list of milestones with dates so I can check on the progress of your project (see below).
+   Finally, you need
+   a **complete** bill of materials including what additional items need to be ordered and
+   whether you are going to order them or I am. We will try to get everything ordered as
+   quickly as we can after your detailed plan and budget are approved. If you have any long
+   lead time items, let me know about them as early as you can, and we'll order them even
+   before your final design documents are approved.
+   
+## Milestones 1 through 3
+   You are responsible for determining a set of milestones that need to be completed to
+   ensure that your project will be flight ready by 8 April 2024 and completed by
+   25 April 2024. You must list the milestones in your Final Plan (Complete Design
+   Documents and BOM). These should include, at a minimum, demonstrating functionality of
+   all of your avionics, such as firing the firewire initiators, and recording data.
+   
+## Completed Airframe Construction and Inspection
+   This deadline is rather tight if you haven't gotten approval for your plans earlier than
+   the plan-approval deadline. You need to have all of the mechanical modifications to your rocket
+   completed by this deadline. I need to inspect the rocket for flight-worthiness. This
+   check-off is important. If you miss the timeline, you may not have time to get your rocket
+   prepared in time for the first launch.
+   
+## Ground Tests of Ejection Systems, Complete Flight Checklists
+   You need to test to determine the correct black powder amounts for the
+   drogue chute to eject at apogee, and the main to eject at 200 meters. The testing will
+   be conducted on Linde Field, and we need to notify Campus Safety when you are going to
+   test. The details of ground testing your ejection systems are found in the
+   [Class Rocket Assembly Instructions](ClassRocketAssembly.md.html#testingejectioncharges),
+   which have not yet been updated for the class modified Adventurers.
+   
+   You also need to have your checklists approved. Your first checklist should be for
+   prepping your rocket for flight. A starting point is the
+   [Class Rocket Checklist](https://docs.google.com/document/d/1dVBvO7aVfs_-7mEDtWGHkoOWV-Q9yQn5qkdvQN47Fl4/template/preview)
+   You also need a checklist for everything you need to bring to the launch. You can have
+   other checklists if you want. Many of the times that something goes wrong on a flight,
+   it is due to someone not following the checklist.
+   
+## First Launch Motors Prepped, Preflight Inspection
+   It is possible to prep your motors in the field on launch day. However, it's usually
+   better to prep them in the lab before you leave, where you are under less stress and
+   there is substantially less dust blowing around. Just remember to leave them a little
+   less than fully tightened, so that the o-rings don't take a set (ask NASA about that).
+   However, you do need to fully tighten them before you put them in the rocket on launch
+   day.
+   
+   I need to inspect your rocket and make sure it's ready to launch before we load up to
+   go to the launch site. It's best to have it inspected early enough that you have time to fix
+   any problems I find. 
+   
+   Hopefully, the remaining milestones and deadlines are self-explanatory.
+  
+# Flight Characterization
+  You have several decisions to make regarding your final project. You will nominally get two flights
+  on each of two Saturdays (6 April 2024 and 13 April 2024) to generate flight data for your
+  Final Report. The Final Report must demonstrate competency in each of the following areas:
+
+ - Characterization of flight and flow dynamics on each flight (e.g., trajectory, apogee, $C_D$, etc.)
+ - Characterization of motor performance on each flight (e.g, thrust curve, total and specific impulse)
+  
+  To demonstrate competency, you need the following plots included in your Final Report,
+  one such plot per flight:
+  
+  1. Acceleration, the measured vertical acceleration from lift-off to apogee on the same plot
+     as the modeled acceleration.
+  2. Velocity, the measured vertical velocity from lift-off to apogee on the same plot
+     as the modeled velocity.
+  3. Altitude, the measured altitude from lift-off to apogee on the same plot
+     as the modeled altitude.
+  4. Spin Rate, the measured spin rate about the vertical axis of the rocket from lift-off
+     to apogee.
+  5. Orientation, the measured orientation about the vertical axis of the rocket from
+     lift-off to apogee.
+  6. A plot showing calculation of the average $C_D$.
+  7. A plot showing $C_D$ versus velocity.
+  8. A plot showing the measured thrust curve of the rocket on the same plot as the
+     thrust curve from thrustcurve.org.
+  9. A plot showing the calculated rocket mass vs. time from lift-off to burnout on the
+     same plot as the modeled curve.
+  10. If possible a plot showing exterior temperature versus time, and a plot showing
+     exterior temperature versus altitude during descent with both a best-fit line, and
+     a best-fit line with the standard lapse rate.
+     
+  You may combine plots, for example Plots 1, 2, and 3, if you believe it clarifies what
+  is happening.
+  
+  In addition, you may, if desired, demonstrate an in-depth understanding of either one of
+  the above areas or one of the following areas:
+ 
+ - Characterization of avionics and telemetry
+ - Characterization of structural dynamics (e.g, PSD plots of on-board accelerometers)
+ - Fluid mechanics and CFD
+ - Risk and reliability
+ - Other areas of your interest
+  
+## Sample in-depth design areas:
+
+   * Lower body tube with custom sets of fins
+   * Custom instrumentation and sensors such as telemetry system, vibration measurement system, etc.
+   * Custom signal-processing software
+   * System for active stabilization (not guidance)
+
+# Final Report
+  The final report should be an in-depth discussion of your project, from design and
+  modeling, through analysis of flight data, to conclusions. It should be no more than
+  ten (10) pages in total length with an 11-point font, including all figures and
+  references. The [Tech Memo Guidelines](TechMemoGuide.md.html) explains
+  more about the expected format. The Report will be graded according to [this rubric](PDF/FinalReportRubric2024.pdf).
+  The Final Report is a team report, not an individual report, so you should work on it
+  together.
+  
+# Partial List of Previous Projects
+
+## Boosted Dart
+   Attempt to launch a boosted dart with a 3-motor cluster booster.
+     
+   **Results:** Failed to launch due to structural integrity issues (side casings snapped off
+   during launch prep). One of team was proctor following year and launched during
+   class launch. Never recovered boosted dart or avionics.
+
+## Two-Stage Minimum Diameter Rocket.
+   **Results:** 2nd stage failed to ignite due to
+   design and avionics flaws. Top stage flew by itself flawlessly.
+
+## Spring-Loaded Parachute Ejection
+   Designed a spring loaded mechanical release for parachute ejection, both drogue and main.
+   
+   **Results:** 1st Launch functioned properly. There was irreparable structural failure
+   of the rocket body where the side-ejection door had been cut on the 2nd flight.
+   
+## Measurement of Temperature Profile Along Rocket Body
+   Attempted to pur an array of temperature sensors along the outside of the rocket body
+   to measure the air-temperature profile during transonic flight.
+   
+   **Results:** Never managed to get their custom Teensy-based data acquisition system
+   to function properly and record data. Never flew.
+   
+## Sensor Fusion
+   Attempted to combine multi-camera video data for horizon with IMU data to provide better 3-D
+   sensor fusion.
+   
+   **Results:** Partially successful, but incorrectly set sample rates for IMU and
+   did not have high-enough quality data for successful sensor fusion.
+
+## Vibration Senors Along Body
+   Placed an array of vibrations sensors on the surface of the rocket to measure modal
+   vibrations.
+   
+   **Resuts:** Struggled with both the avionics and the flight preparation and never flew.
+   
+## Gyro Stabilized
+   _E80 Project_: Included a high-speed gyroscope in the rocket to maintain the orientation
+   during flight
+   
+   **Results:** Got the gyro to spin up, but it didn't seem to have much effect.
+
+## Fin Drag for Different Fin Shapes and Placement
+   _E80 Project_: Made the fin can easily detachable and changeable to attach different fins.
+   
+   **Results:** Very successful. Managed to get a lot of fin drag vs. velocity data for
+   different fins.
+   
+## Variations in UV Intensity with Altitude
+   _E80 Project_: Placed a set of UV sensitive photodiodes on the rocket to measure UV
+   intensity vs. altitude and compare with models.
+   
+   **Results:** Were unsuccessful in measuring changes with UV intensity with altitude
+   because of rocket rotation, but found a really accurate way to measure axial rocket
+   rotation.
+   
+## Mapping of Wind Velocity vs. Altitude
+   _E80 Project_: Designed a rocket to drop a series of small weighted objects with parachutes
+   at different altitudes and map out the wind velocity versus altitude by where the
+   objects landed.
+   
+   **Results:** Never got the ejection mechanism to work reliably. Got very few data points
+   and were unable to map things well.
+ 
